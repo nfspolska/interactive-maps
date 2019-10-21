@@ -1,0 +1,14 @@
+{
+	"tri_city_bay_garaz":{
+		"label":"Garáž",
+		"popup":""
+	},
+	"tri_city_bay_utrudniacz_poscigow":{
+		"label":"Pursuit breaker",
+		"popup":""
+	},
+	"tri_city_bay_kryjowka":{
+		"label":"Skrýša",
+		"popup":""
+	}
+}

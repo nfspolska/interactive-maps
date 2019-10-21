@@ -1,0 +1,22 @@
+{
+	"rockport_garaz":{
+		"label":"Garáž",
+		"popup":""
+	},
+	"rockport_autokomis":{
+		"label":"Predajňa áut",
+		"popup":""
+	},
+	"rockport_sklep":{
+		"label":"Predajňa súčiastok",
+		"popup":""
+	},
+	"rockport_utrudniacz_poscigow":{
+		"label":"Pursuit Breaker",
+		"popup":""
+	},
+	"rockport_kryjowka":{
+		"label":"Skrýša",
+		"popup":""
+	}
+}

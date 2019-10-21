@@ -1,0 +1,14 @@
+{
+	"tri_city_bay_garaz":{
+		"label":"Garaż",
+		"popup":""
+	},
+	"tri_city_bay_utrudniacz_poscigow":{
+		"label":"Utrudniacz pościgów",
+		"popup":""
+	},
+	"tri_city_bay_kryjowka":{
+		"label":"Kryjówka",
+		"popup":""
+	}
+}

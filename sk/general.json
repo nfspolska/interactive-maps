@@ -1,0 +1,107 @@
+{
+	"maps":{
+		"olympic_city":"Olympic City",
+		"bayview":"Bayview",
+		"rockport":"Rockport",
+		"palmont_city":"Palmont City",
+		"tri-city_bay":"Tri-City Bay",
+		"world":"World",
+		"seacrest_county":"Seacrest County",
+		"fairhaven":"Fairhaven",
+		"redview-county":"Redview County",
+		"ventura-bay":"Ventura Bay",
+		"fortune-valley":"Fortune Valley"
+	},
+	"home": {
+		"header":"Neoficiálne Interaktívne Mapy Need for Speed",
+		"underDevelopment":"V súčasnosti vo vývoji",
+		"resultsFound":"Nájdené výsledky.",
+		"searchPlaceholder":"Zadajte hľadaný výraz..."
+	},
+	"sidebar":{
+		"returnToMapSelection":"Vrátiť sa na výber mapy",
+
+		"bayview_garaz":"Garáž",
+		"bayview_sklep_z_dodatkami":"Predajňa špecialít",
+		"bayview_sklep_graficzny":"Predajňa grafických úprav",
+		"bayview_salon_samochodowy":"Predajňa áut",
+		"bayview_sklep_tuningowy":"Predajňa výkonnostných dielov",
+		"bayview_sklep_z_karoseria":"Predajňa dielov na karosérii",
+		"bayview_drift":"Drift",
+		"bayview_tor":"Okruh",
+		"bayview_street_x":"Street X",
+		"bayview_drag":"Drag",
+		"bayview_sprint":"Šprint",
+		"bayview_informacja":"Informácie",
+		"bayview_gotowka":"Bankovka",
+
+		"rockport_garaz":"Garáž",
+		"rockport_autokomis":"Predajňa áut",
+		"rockport_sklep":"Predajňa súčiastok",
+		"rockport_utrudniacz_poscigow":"Pursuit breaker",
+		"rockport_kryjowka":"Skrýša",
+
+		"palmont_city_garaz":"Garáž",
+		"palmont_city_salon_samochodowy":"Predajňa áut",
+		"palmont_city_utrudniacz_poscigow":"Pursuit breaker",
+		"palmont_city_kryjowka":"Skrýša",
+		"palmont_city_gang":"Gang",
+
+		"tri_city_bay_garaz":"Garáž",
+		"tri_city_bay_utrudniacz_poscigow":"Pursuit breaker",
+		"tri_city_bay_kryjowka":"Skrýša",
+
+		"redview_county_garaz":"Garáž",
+		"redview_county_posterunek":"Policajné Stanovište",
+		"redview_county_warsztat":"Prejazdná Opravna",
+		"redview_county_skocznia":"Skok",
+		"redview_county_fotoradar":"Radar",
+		"redview_county_strefa_predkosci":"Rýchlostný Úsek",
+
+		"ventura_bay_wazne_miejsce":"Dôležitá Miesta",
+		"ventura_bay_posterunek_policji":"Policajná Stanica",
+		"ventura_bay_stacja_benzynowa":"Čerpacia Stanica",
+		"ventura_bay_punkt_widokowy":"Prírodná Vyhliadka",
+		"ventura_bay_miejsce_do_krecenia_baczkow":"Miesto Pre „Donuty“",
+		"ventura_bay_darmowa_czesc":"Súčiastky Zdarma",
+		"ventura_bay_punkt_eksploracyjny":"Mestský Prieskum",
+		"ventura_bay_gonitwa":"Speed Run",
+		"ventura_bay_zakret_driftowy":"Drift Corner",
+
+		"fortune_valley_garaz":"Garáž",
+		"fortune_valley_warsztat":"Predajňa súčiastok",
+		"fortune_valley_salon_z_samochodami":"Predajňa áut",
+		"fortune_valley_skrzynia":"Policajná návnada",
+		"fortune_valley_zeton":"Žeton",
+		"fortune_valley_billboard":"Billboard",
+		"fortune_valley_fotoradar":"Radar",
+		"fortune_valley_proba_predkosci":"Rýchlostná zóna",
+		"fortune_valley_skok":"Skok",
+		"fortune_valley_strefa_driftu":"Driftovací zóna",
+		"fortune_valley_wrak":"Vrak"
+	},
+	"controls": {
+		"show":"Zobraziť Všetko",
+		"hide":"Skryť Všetko",
+		"showCounts":"Zobraziť Počet",
+		"hideCounts":"Skryť Počet",
+		"resetInvisible":"Resetovať Skryté",
+		"resetInvisConfirm":"Týmto obnovíte všetky skryté značky do ich pôvodného stavu (viditeľné), ste si týmto krokom istí?",
+		"helpFeatures":"Funkcie a Nápoveda",
+		"credits":"Tvorcovia",
+		"backupSave":"Týmto sa stiahne záložná kópiaení všetkých nastavení aplikácie Need for Speed Map. Súbor bude uložený ako: __fileName__ Ste si týmto krokom istí?",
+		"backupLoad":"Obnovte nastavenie:",
+		"backupLoadSuccess":"Obnovenie dát dokončené!",
+		"backupLoadFail":"Obnovenie zlyhalo, skontrolujte súbor",
+		"backupHtmlFail":"Ospravedlňujeme sa. Obnovenie nie je možné. Tento prehliadač nepodporuje HTML5 File APIs."
+	},
+	"credits": {
+		"botAssets":"Need for Speed, logo, ikony, mapy a text sú majetkom __cdpr__"
+	},
+	"misc": {
+		"contribute":"Vo vývoji! Každá pomoc ocenená na __link__",
+		"discuss":"Spätná väzba, podnety? Diskutujte na__link__",
+		"helpTranslate":"Chcete prispieť alebo zlepšiť preklady?",
+		"portraitWarn":"Poznámka: mapa je optimalizovaná pre režim na šírku, kliknúť pre zrušenie"
+	}
+}
