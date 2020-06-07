@@ -1,18 +1,18 @@
 {
 	"ventura_bay_wazne_miejsce":{
 		"label":{
-			"Garaz":"Garaż",
-			"Przyczepa_Robyn":"Przyczepa Robyn",
+			"Garaz":"Garage",
+			"Przyczepa_Robyn":"Robyn's Trailer",
 			"The_Longhorn":"The Longhorn",
-			"Bunkier":"Bunkier",
+			"Bunkier":"Bunker",
 			"Diner":"Diner"
 		},
 		"popup":{
-			"Garaz":"Tutaj możesz zmienić samochód lub poddać go modyfikacjom.",
-			"Przyczepa_Robyn":"Miejsce spotkań ekipy Travisa",
-			"The_Longhorn":"Miejsce spotkań ekipy Travisa",
-			"Bunkier":"Miejsce spotkań ekipy Travisa",
-			"Diner":"Miejsce spotkań ekipy Travisa"
+			"Garaz":"Here you can change or modify your car",
+			"Przyczepa_Robyn":"Travis team meeting place",
+			"The_Longhorn":"Travis team meeting place",
+			"Bunkier":"Travis team meeting place",
+			"Diner":"Travis team meeting place"
 		}
 	},
 	"ventura_bay_posterunek_policji":{
@@ -23,10 +23,10 @@
 			"Franklin_Terrace":"Franklin Terrace Police Station"
 		},
 		"popup":{
-			"Los_Sol":"To miejsce w Los Sol roi się od glin!",
-			"Lone_Palm":"To miejsce w Lone Palm roi się od glin!",
-			"Ventura_Bay":"To miejsce w Ventura Bay roi się od glin!",
-			"Franklin_Terrace":"To miejsce we Franklin Terrace roi się od glin!"
+			"Los_Sol":"This place in Los Sol is full of cops!",
+			"Lone_Palm":"This place in Lone Palm is full of cops!",
+			"Ventura_Bay":"This place in Ventura Bay is full of cops!",
+			"Franklin_Terrace":"This place in Franklin Terrace is full of cops!"
 		}
 	},
 	"ventura_bay_stacja_benzynowa":{
@@ -47,59 +47,59 @@
 			"BBA_Industries":"BBA Industries Gas Station"
 		},
 		"popup":{
-			"Granite_Spring":"There's a place where you can either change your car or modify it.",
-			"Los_Sol":"There's a place where you can either change your car or modify it.",
-			"Most_Los_Sol":"There's a place where you can either change your car or modify it.",
-			"Millenium_Plaza":"There's a place where you can either change your car or modify it.",
-			"Lone_Palm":"There's a place where you can either change your car or modify it.",
-			"Esplanade":"There's a place where you can either change your car or modify it.",
-			"East_Esplanade":"There's a place where you can either change your car or modify it.",
-			"Arcadia":"There's a place where you can either change your car or modify it.",
-			"Centrum_Sztuki_Ventura_Bay":"There's a place where you can either change your car or modify it.",
-			"Kompleks_petrochemiczny":"There's a place where you can either change your car or modify it.",
-			"Harbor_View":"There's a place where you can either change your car or modify it.",
-			"Port":"There's a place where you can either change your car or modify it.",
-			"Apollo_Heights":"There's a place where you can either change your car or modify it.",
-			"BBA_Industries":"There's a place where you can either change your car or modify it."
+			"Granite_Spring":"Here you can renew the damaged car body",
+			"Los_Sol":"Here you can renew the damaged car body",
+			"Most_Los_Sol":"Here you can renew the damaged car body",
+			"Millenium_Plaza":"Here you can renew the damaged car body",
+			"Lone_Palm":"Here you can renew the damaged car body",
+			"Esplanade":"Here you can renew the damaged car body",
+			"East_Esplanade":"Here you can renew the damaged car body",
+			"Arcadia":"Here you can renew the damaged car body",
+			"Centrum_Sztuki_Ventura_Bay":"Here you can renew the damaged car body",
+			"Kompleks_petrochemiczny":"Here you can renew the damaged car body",
+			"Harbor_View":"Here you can renew the damaged car body",
+			"Port":"Here you can renew the damaged car body",
+			"Apollo_Heights":"Here you can renew the damaged car body",
+			"BBA_Industries":"Here you can renew the damaged car body"
 		}
 	},
 	"ventura_bay_punkt_widokowy":{
 		"label":{
-			"Weid_Canyon-zapora":"Weid Canyon - dam",
-			"Crescent_Mountain-panorama":"Crescent Mountain - panorama",
-			"Weid_Canyon-rzeka":"Weid Canyon - river",
-			"Granite_Springs-panorama":"Granite Springs - panorama",
-			"Granite_Springs-pomnik":"Granite Springs - monument",
+			"Weid_Canyon-zapora":"Weid Canyon Dam",
+			"Crescent_Mountain-panorama":"Crescent Mountain View",
+			"Weid_Canyon-rzeka":"Weid Canyon River",
+			"Granite_Springs-panorama":"Granite Springs View",
+			"Granite_Springs-pomnik":"Granite Springs Monument",
 			
-			"Beckenholl-panorama":"Beckenholl - panorama",
-			"Cross_Roads-panorama":"Cross Roads - panorama",
-			"Shoreline_Front-zatoka":"Shoreline Front - bay",
-			"Ventura_Bay-panorama":"Ventura Bay - panorama",
-			"Ventura_Bay-centrum":"Ventura Bay - centre",
+			"Beckenholl-panorama":"Beckenholl View",
+			"Cross_Roads-panorama":"Cross Roads View",
+			"Shoreline_Front-zatoka":"Shoreline Front Bay",
+			"Ventura_Bay-panorama":"Ventura Bay Skyline",
+			"Ventura_Bay-centrum":"Ventura Bay Downtown",
 			
-			"Stadion_Ghost":"Stadion Ghost",
-			"Millennium-most":"Millennium - bridge",
-			"Lone_Palm_Village-skrzyzowanie":"Lone Palm Village - crossing",
-			"East_Esplanade-stare_fabryki":"East Esplanade - old factory",
-			"Arcadia-park":"Arcadia - park",
+			"Stadion_Ghost":"Ghost Stadium",
+			"Millennium-most":"Millennium Bridge",
+			"Lone_Palm_Village-skrzyzowanie":"Lone Palm Village Crossing",
+			"East_Esplanade-stare_fabryki":"East Esplanade Old factory",
+			"Arcadia-park":"Arcadia Park",
 			
-			"Ventura_Bay-centrum_sztuki":"Ventura Bay - art centre",
-			"Kompleks_petrochemiczny_VB":"VB petrochemical centre",
+			"Ventura_Bay-centrum_sztuki":"Ventura Bay Art Centre",
+			"Kompleks_petrochemiczny_VB":"VB Petrochemical Centre",
 			"San_Pedro-port":"San Pedro - harbor",
 			"Navy_Pier":"Navy Pier",
-			"South_Port-most":"South Port - bridge",
+			"South_Port-most":"South Port Bridge",
 			
-			"Franklin_Terrace-panorama":"Franklin Terrace - panorama",
+			"Franklin_Terrace-panorama":"Franklin Terrace View",
 			"Morphus":"Morphus",
-			"Harbor_View-centrum_handlowe":"Harbor View - mall",
+			"Harbor_View-centrum_handlowe":"Harbor View Mall",
 			"Apollo_Heights":"Apollo Heights",
 			"BBA_Industries":"BBA Industries",
 			
-			"Castle_Hill-stacja_uzdatniania_wody":"Castle Hill - water-works",
-			"Sinners_Peak-obserwatorium":"Sinner's Peak - observatory",
-			"ElRay-molo":"El Ray - pier",
-			"Ventura_Bay-widok_na_ocean":"Ventura Bay - view for ocean",
-			"Bishop_Rock-wzgorza":"Bishop Rock - hills"
+			"Castle_Hill-stacja_uzdatniania_wody":"Castle Hill Water Treatment Plant",
+			"Sinners_Peak-obserwatorium":"Sinner's Peak Observatory",
+			"ElRay-molo":"El Rey Pier",
+			"Ventura_Bay-widok_na_ocean":"Ventura Bay Ocean View",
+			"Bishop_Rock-wzgorza":"Bishop Rock Hills"
 		},
 		"popup":{
 			"Weid_Canyon-zapora":"",
@@ -141,37 +141,37 @@
 	},
 	"ventura_bay_miejsce_do_krecenia_baczkow":{
 		"label":{
-			"Wulkano-zacja":"Wulkano-zacja",
-			"Pieklo_pod_maska":"Piekło pod maską",
-			"Czarny_dym":"Czarny dym",
-			"Ruszyl_Ziemie":"Ruszył Ziemię",
-			"B_jak_baczek":"B jak bączek",
+			"Wulkano-zacja":"Café au Creme",
+			"Pieklo_pod_maska":"Evil Caramel",
+			"Czarny_dym":"Chocolate Orange",
+			"Ruszyl_Ziemie":"Apple Crumble",
+			"B_jak_baczek":"Nutty Choco Fudge",
 			
-			"Zawroty_glowy":"Zawroty głowy",
-			"W_kolko_Macieju":"W kółko Macieju",
-			"Kola_fortuny":"Koła fortuny",
-			"Wirujacy_sens":"Wirujący sens",
-			"Miotacz_ognia":"Miotacz ognia",
+			"Zawroty_glowy":"Maple Bacon",
+			"W_kolko_Macieju":"Koko Ganache",
+			"Kola_fortuny":"Sprinkle Frost",
+			"Wirujacy_sens":"Fudge Dream",
+			"Miotacz_ognia":"Lemon Refresher",
 			
-			"Tornado":"Tornado",
-			"Slady_na_ulicy":"Ślady na ulicy",
-			"Zakrecona_zakrecona":"Zakręcona zakręcona",
-			"Czarna_dziura":"Czarna dziura",
-			"Disco-bak":"Disco-bąk",
+			"Tornado":"Locococo",
+			"Slady_na_ulicy":"Butter Fiesta",
+			"Zakrecona_zakrecona":"Purple Glaze",
+			"Czarna_dziura":"Verry Berry",
+			"Disco-bak":"Deep Almond",
 			
-			"Wkrecanie_sruby":"Wkręcanie śruby",
-			"Iskry_z_alufelg":"Iskry z alufelg",
-			"Zwijanie_asfaltu":"Zwijanie asfaltu",
-			"Szalony_spin":"Szalony spin",
-			"Wokol_slonca":"Wokół słońca",
+			"Wkrecanie_sruby":"Cinnamoney",
+			"Iskry_z_alufelg":"Honeylicious",
+			"Zwijanie_asfaltu":"Frosted Devil",
+			"Szalony_spin":"Chestnut Heaven",
+			"Wokol_slonca":"Nasty Glazed",
 			
-			"Kalabanga":"Kałabanga!",
-			"Ale_urwal":"Ale urwał!",
-			"Malowane_amelinium":"Malowane amelinium",
-			"Smola_spod_kola":"Smoła spod koła",
-			"Taki_mamy_klimat":"Taki mamy klimat",
+			"Kalabanga":"Dizzled Dough",
+			"Ale_urwal":"Pecan Punch",
+			"Malowane_amelinium":"Vanilla Monster",
+			"Smola_spod_kola":"Marshmallow Pop",
+			"Taki_mamy_klimat":"Rockhard Melts",
 			
-			"Kolko_graniaste":"Angel Whip",
+			"Kolko_graniaste":"Choc n' Chip",
 			"Silnik_w_ogniu":"Sugar Booger",
 			"Kalejdoskop":"Angel Whip",
 			"Rozkrecanie_imprezy":"Giant Sin",
@@ -247,37 +247,37 @@
 			"24":"Free Part #24"
 		},
 		"popup":{
-			"20":"Lusterko na błotnik w stylu ulicznym do Hondy Civic",
-			"12":"Butla nitro (odn. z upływem czasu) - poj. 2,3 kg",
-			"18":"Podświetlany wlot powietrza do Lotusa",
-			"1":"Sprzęgło z czasem zmiany biegów 0,1 s",
-			"15":"Podświetlany wlot powietrza do Volvo",
+			"20":"Street style fender mirror for Honda Civic",
+			"12":"Nitro cylinder (over time) - 2,3 kg capacity",
+			"18":"Illuminated air intake to Lotus",
+			"1":"Clutch with gear shift time 0,1 s",
+			"15":"Illuminated air intake for Volvo",
 			
-			"10":"Chłodnica międzystopniowa szer./wys. 26 x 6",
-			"11":"Kompresor EliteTune-SC-V1-TUNER",
-			"23":"Wyścigowe progi boczne do Dodge'a Challengera SRT",
-			"13":"Duże błotniki fabryczne do Golfa GTI",
-			"19":"Wyścigowy błotnik typu I do Hondy Civic",
+			"10":"Intercooler W x H 26 x 6",
+			"11":"EliteTune-SC-V1-TUNER compressor",
+			"23":"Side Thresholds for Dodge Challenger SRT",
+			"13":"Large factory mudguards for GTI Golf",
+			"19":"Type I racing fender for Honda Civic",
 			
-			"21":"Szeroki błotnik w stylu ulicznym do Dodge'a Challengera SRT",
-			"2":"zamienny filtr powietrza",
-			"3":"Podrasowana pompa paliwowa",
-			"22":"Wyścigowe progi boczne do Hondy Civic",
-			"14":"Podświetlany wlot powietrza do Golfa GTI",
+			"21":"Wide street-style fender to Dodge Challenger SRT",
+			"2":"Replacement air filter",
+			"3":"Pressed fuel pump",
+			"22":"Race side thresholds to Honda Civic",
+			"14":"Illuminated air intake for GTI Golf",
 			
-			"6":"Wyścigowy układ wydechowy bez katalizatora",
-			"5":"Kolektor EL",
-			"8":"Podrasowany wałek rozrządu Elite.4 o czasie otwarcia zaworu (ssanie/wydech): 243/283",
-			"16":"Luserko na błotnik w stylu ulicznym do Mustanga-65",
-			"9":"Wyszlifowane doloty Elite Tuning v.2",
+			"6":"Race exhaust system without catalyst",
+			"5":"Collector EL",
+			"8":"Pressed camshaft Elite.4 with valve opening time (suction/expiration): 243/283",
+			"16":"A street-style mudguard to Mustang-65",
+			"9":"Ground Elite Tuning inlets v.2",
 			
-			"17":"Deflektory z kompozytu węglowego do Lotusa",
-			"4":"W pełni regulowane hamulce",
-			"7":"W pełni regulowany hamulec ręczny",
-			"24":"Szeroki błotnik w stylu ulicznym do Volvo"
+			"17":"Carbon composite deflectors for Lotus",
+			"4":"Fully adjustable brakes",
+			"7":"Fully adjustable handbrake",
+			"24":"Wide street-style fender for your Volvo"
 		}
 	},
-	"venturabaypunkteksploracyjny":{
+	"ventura_bay_punkt_eksploracyjny":{
 		"label":{
 			"Nerd":"The Nerd",
 			"Kryjowka_idealna":"Perfect Hideout",
@@ -319,42 +319,42 @@
 			"W_plenerze":"Wildlife"
 		},
 		"popup":{
-			"Zawirowania":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Jak_w_zegarku":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 26 sekund",
-			"Zadyma_na_zboczu":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 27 sekund",
-			"Strefa_zagrozenia":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 28 sekund",
-			"Granica_wytrzymalosci":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 32 sekundy",
-			"Piorun":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Kompozyt_weglowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Miecz_worpalny":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 47 sekund",
-			"Kabel_Rozruchowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"W_plenerze":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 25 sekund"
+			"Zawirowania":"Follow the designated route in less than __a__ seconds without collision",
+			"Jak_w_zegarku":"Follow the designated route in less than __a__ seconds without collision",
+			"Zadyma_na_zboczu":"Follow the designated route in less than __a__ seconds without collision",
+			"Strefa_zagrozenia":"Follow the designated route in less than __a__ seconds without collision",
+			"Granica_wytrzymalosci":"Follow the designated route in less than __a__ seconds without collision",
+			"Piorun":"Follow the designated route in less than __a__ seconds without collision",
+			"Kompozyt_weglowy":"Follow the designated route in less than __a__ seconds without collision",
+			"Miecz_worpalny":"Follow the designated route in less than __a__ seconds without collision",
+			"Kabel_Rozruchowy":"Follow the designated route in less than __a__ seconds without collision",
+			"W_plenerze":"Follow the designated route in less than __a__ seconds without collision"
 		}
 	},
 	"ventura_bay_zakret_driftowy":{
 		"label":{
-			"Przytulny_zakatek":"Scandinavian Flick",
+			"Przytulny_zakatek":"Cozy Nook",
 			"Skandynawskie_szarpniecie":"Scandinavian Flick",
 			"Giecie_blotnikow":"Fender Bender",
 			"Kontrobrot":"Counter Spun",
 			"Solidne_fundamenty":"Ground Floor",
 			"Guzik_z_petelka":"Loop the Loop",
 			"Dzielnica_driftu":"The Drift Side",
-			"Szlifierka_do_metalu":"One More",
+			"Szlifierka_do_metalu":"Metal Grinder",
 			"Raz_jeszcze":"One More",
 			"Block_w_bok":"Ken't Block This"
 		},
 		"popup":{
-			"Przytulny_zakatek":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
-			"Skandynawskie_szarpniecie":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Giecie_blotnikow":"Pokonaj zakręt driftem osiągając minimum 4,000 pkt",
-			"Kontrobrot":"Pokonaj zakręt driftem osiągając minimum 2,500 pkt",
-			"Solidne_fundamenty":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
-			"Guzik_z_petelka":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Dzielnica_driftu":"Pokonaj zakręt driftem osiągając minimum 3,200 pkt",
-			"Szlifierka_do_metalu":"Pokonaj zakręt driftem osiągając minimum 4,500 pkt",
-			"Raz_jeszcze":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Block_w_bok":"Pokonaj zakręt driftem osiągając minimum 3,800 pkt"
+			"Przytulny_zakatek":"Drift through the turn with a minimum of __a__ points",
+			"Skandynawskie_szarpniecie":"Drift through the turn with a minimum of __a__ points",
+			"Giecie_blotnikow":"Drift through the turn with a minimum of __a__ points",
+			"Kontrobrot":"Drift through the turn with a minimum of __a__ points",
+			"Solidne_fundamenty":"Drift through the turn with a minimum of __a__ points",
+			"Guzik_z_petelka":"Drift through the turn with a minimum of __a__ points",
+			"Dzielnica_driftu":"Drift through the turn with a minimum of __a__ points",
+			"Szlifierka_do_metalu":"Drift through the turn with a minimum of __a__ points",
+			"Raz_jeszcze":"Drift through the turn with a minimum of __a__ points",
+			"Block_w_bok":"Drift through the turn with a minimum of __a__ points"
 		}
 	}
 }
