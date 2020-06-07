@@ -319,16 +319,16 @@
 			"W_plenerze":"Divoká zver"
 		},
 		"popup":{
-			"Zawirowania":"Prejdite určenú trasu bez kolízií a za menej ako 30 sekúnd",
-			"Jak_w_zegarku":"Prejdite určenú trasu bez kolízií a za menej ako 26 sekúnd",
-			"Zadyma_na_zboczu":"Prejdite určenú trasu bez kolízií a za menej ako 27 sekúnd",
-			"Strefa_zagrozenia":"Prejdite určenú trasu bez kolízií a za menej ako 28 sekúnd",
-			"Granica_wytrzymalosci":"Prejdite určenú trasu bez kolízií a za menej ako 32 sekúnd",
-			"Piorun":"Prejdite určenú trasu bez kolízií a za menej ako 30 sekúnd",
-			"Kompozyt_weglowy":"Prejdite určenú trasu bez kolízií a za menej ako 30 sekúnd",
-			"Miecz_worpalny":"Prejdite určenú trasu bez kolízií a za menej ako 47 sekúnd",
-			"Kabel_Rozruchowy":"Prejdite určenú trasu bez kolízií a za menej ako 30 sekúnd",
-			"W_plenerze":"Prejdite určenú trasu bez kolízií a za menej ako 25 sekúnd"
+			"Zawirowania":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Jak_w_zegarku":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Zadyma_na_zboczu":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Strefa_zagrozenia":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Granica_wytrzymalosci":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Piorun":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Kompozyt_weglowy":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Miecz_worpalny":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"Kabel_Rozruchowy":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd",
+			"W_plenerze":"Prejdite určenú trasu bez kolízií a za menej ako __a__ sekúnd"
 		}
 	},
 	"ventura_bay_zakret_driftowy":{
@@ -345,16 +345,16 @@
 			"Block_w_bok":"Ken't Block this"
 		},
 		"popup":{
-			"Przytulny_zakatek":"Prejdite zákrutu driftom o minimálnom skóre 3,500 bodov",
-			"Skandynawskie_szarpniecie":"Prejdite zákrutu driftom o minimálnom skóre 3,000 bodov",
-			"Giecie_blotnikow":"Prejdite zákrutu driftom o minimálnom skóre 4,000 bodov",
-			"Kontrobrot":"Prejdite zákrutu driftom o minimálnom skóre 2,500 bodov",
-			"Solidne_fundamenty":"Prejdite zákrutu driftom o minimálnom skóre 3,500 bodov",
-			"Guzik_z_petelka":"Prejdite zákrutu driftom o minimálnom skóre 3,000 bodov",
-			"Dzielnica_driftu":"Prejdite zákrutu driftom o minimálnom skóre 3,200 bodov",
-			"Szlifierka_do_metalu":"Prejdite zákrutu driftom o minimálnom skóre 4,500 bodov",
-			"Raz_jeszcze":"Prejdite zákrutu driftom o minimálnom skóre 3,000 bodov",
-			"Block_w_bok":"Prejdite zákrutu driftom o minimálnom skóre 3,800 bodov"
+			"Przytulny_zakatek":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Skandynawskie_szarpniecie":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Giecie_blotnikow":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Kontrobrot":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Solidne_fundamenty":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Guzik_z_petelka":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Dzielnica_driftu":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Szlifierka_do_metalu":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Raz_jeszcze":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov",
+			"Block_w_bok":"Prejdite zákrutu driftom o minimálnom skóre __a__ bodov"
 		}
 	}
 }

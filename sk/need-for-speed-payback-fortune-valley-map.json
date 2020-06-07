@@ -99,7 +99,7 @@
 			"44":"Pohľad na hviezdy",
 			"45":"Stojí za zmienku"
 		},
-		"popup": "&#9734; __a__ km/h<br />&#9734;&#9734; __b__ km/h<br />&#9734;&#9734;&#9734; __c__ km/h"
+		"popup":"&#9734; __a__ km/h<br />&#9734;&#9734; __b__ km/h<br />&#9734;&#9734;&#9734; __c__ km/h"
 	},
 	"fortune_valley_proba_predkosci":{
 		"label":{
@@ -184,7 +184,7 @@
 			"79":"Petarda",
 			"80":"Petarda"
 		},
-		"popup": "&#9734; __a__ km/h<br />&#9734;&#9734; __b__ km/h<br />&#9734;&#9734;&#9734; __c__ km/h"
+		"popup":"&#9734; __a__ km/h<br />&#9734;&#9734; __b__ km/h<br />&#9734;&#9734;&#9734; __c__ km/h"
 	},
 	"fortune_valley_skok":{
 		"label":{
@@ -219,7 +219,7 @@
 			"29":"Proti gravitácii",
 			"30":"Ako šéf"
 		},
-		"popup": "&#9734; __a__ m<br />&#9734;&#9734; __b__ m<br />&#9734;&#9734;&#9734; __c__ m"
+		"popup":"&#9734; __a__ m<br />&#9734;&#9734; __b__ m<br />&#9734;&#9734;&#9734; __c__ m"
 	},
 	"fortune_valley_strefa_driftu":{
 		"label":{
@@ -284,35 +284,35 @@
 			"59":"Stretnutie pneu s asfaltom",
 			"60":"Stretnutie pneu s asfaltom"
 		},
-		"popup": "&#9734; __a__ bodov<br />&#9734;&#9734; __b__ bodov<br />&#9734;&#9734;&#9734; __c__ bodov"
+		"popup":"&#9734; __a__ bodov<br />&#9734;&#9734; __b__ bodov<br />&#9734;&#9734;&#9734; __c__ bodov"
 	},
 	"fortune_valley_wrak":{
 		"label":{
-			"1":"Volkswagen Beetle",
-			"2":"Volkswagen Beetle",
-			"3":"Volkswagen Beetle",
-			"4":"Volkswagen Beetle",
-			"5":"Volkswagen Beetle",
-			"6":"Chevrolet Bel Air",
-			"7":"Chevrolet Bel Air",
-			"8":"Chevrolet Bel Air",
-			"9":"Chevrolet Bel Air",
-			"10":"Chevrolet Bel Air",
-			"11":"Chevrolet C10 Stepside Pickup",
-			"12":"Chevrolet C10 Stepside Pickup",
-			"13":"Chevrolet C10 Stepside Pickup",
-			"14":"Chevrolet C10 Stepside Pickup",
-			"15":"Chevrolet C10 Stepside Pickup",
-			"16":"Ford Mustang",
-			"17":"Ford Mustang",
-			"18":"Ford Mustang",
-			"19":"Ford Mustang",
-			"20":"Ford Mustang",
-			"21":"Nissan Fairlady 240ZG",
-			"22":"Nissan Fairlady 240ZG",
-			"23":"Nissan Fairlady 240ZG",
-			"24":"Nissan Fairlady 240ZG",
-			"25":"Nissan Fairlady 240ZG"
+			"1":"Volkswagen Beetle 1963",
+			"2":"Volkswagen Beetle 1963",
+			"3":"Volkswagen Beetle 1963",
+			"4":"Volkswagen Beetle 1963",
+			"5":"Volkswagen Beetle 1963",
+			"6":"Chevrolet Bel Air 1955",
+			"7":"Chevrolet Bel Air 1955",
+			"8":"Chevrolet Bel Air 1955",
+			"9":"Chevrolet Bel Air 1955",
+			"10":"Chevrolet Bel Air 1955",
+			"11":"Chevrolet C10 Stepside Pickup 1965",
+			"12":"Chevrolet C10 Stepside Pickup 1965",
+			"13":"Chevrolet C10 Stepside Pickup 1965",
+			"14":"Chevrolet C10 Stepside Pickup 1965",
+			"15":"Chevrolet C10 Stepside Pickup 1965",
+			"16":"Ford Mustang 1965",
+			"17":"Ford Mustang 1965",
+			"18":"Ford Mustang 1965",
+			"19":"Ford Mustang 1965",
+			"20":"Ford Mustang 1965",
+			"21":"Nissan Fairlady 240ZG 1971",
+			"22":"Nissan Fairlady 240ZG 1971",
+			"23":"Nissan Fairlady 240ZG 1971",
+			"24":"Nissan Fairlady 240ZG 1971",
+			"25":"Nissan Fairlady 240ZG 1971"
 		},
 		"popup":{
 			"1":"Motor a pohonný systém",
