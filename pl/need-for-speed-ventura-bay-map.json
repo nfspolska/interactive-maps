@@ -319,16 +319,16 @@
 			"W_plenerze":"W plenerze"
 		},
 		"popup":{
-			"Zawirowania":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Jak_w_zegarku":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 26 sekund",
-			"Zadyma_na_zboczu":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 27 sekund",
-			"Strefa_zagrozenia":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 28 sekund",
-			"Granica_wytrzymalosci":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 32 sekundy",
-			"Piorun":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Kompozyt_weglowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Miecz_worpalny":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 47 sekund",
-			"Kabel_Rozruchowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"W_plenerze":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 25 sekund"
+			"Zawirowania":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Jak_w_zegarku":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Zadyma_na_zboczu":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Strefa_zagrozenia":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Granica_wytrzymalosci":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekundy",
+			"Piorun":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Kompozyt_weglowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Miecz_worpalny":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"Kabel_Rozruchowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund",
+			"W_plenerze":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż __a__ sekund"
 		}
 	},
 	"ventura_bay_zakret_driftowy":{
@@ -345,16 +345,16 @@
 			"Block_w_bok":"Block w bok"
 		},
 		"popup":{
-			"Przytulny_zakatek":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
-			"Skandynawskie_szarpniecie":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Giecie_blotnikow":"Pokonaj zakręt driftem osiągając minimum 4,000 pkt",
-			"Kontrobrot":"Pokonaj zakręt driftem osiągając minimum 2,500 pkt",
-			"Solidne_fundamenty":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
-			"Guzik_z_petelka":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Dzielnica_driftu":"Pokonaj zakręt driftem osiągając minimum 3,200 pkt",
-			"Szlifierka_do_metalu":"Pokonaj zakręt driftem osiągając minimum 4,500 pkt",
-			"Raz_jeszcze":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Block_w_bok":"Pokonaj zakręt driftem osiągając minimum 3,800 pkt"
+			"Przytulny_zakatek":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Skandynawskie_szarpniecie":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Giecie_blotnikow":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Kontrobrot":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Solidne_fundamenty":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Guzik_z_petelka":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Dzielnica_driftu":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Szlifierka_do_metalu":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Raz_jeszcze":"Pokonaj zakręt driftem osiągając minimum __a__ pkt",
+			"Block_w_bok":"Pokonaj zakręt driftem osiągając minimum __a__ pkt"
 		}
 	}
 }
