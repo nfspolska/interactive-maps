@@ -319,16 +319,16 @@
 			"W_plenerze":"Divoká zvěř"
 		},
 		"popup":{
-			"Zawirowania":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
-			"Jak_w_zegarku":"Projeďte určenou trasu bez kolizí a za méně než 26 sekund",
-			"Zadyma_na_zboczu":"Projeďte určenou trasu bez kolizí a za méně než 27 sekund",
-			"Strefa_zagrozenia":"Projeďte určenou trasu bez kolizí a za méně než 28 sekund",
-			"Granica_wytrzymalosci":"Projeďte určenou trasu bez kolizí a za méně než 32 sekund",
-			"Piorun":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
-			"Kompozyt_weglowy":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
-			"Miecz_worpalny":"Projeďte určenou trasu bez kolizí a za méně než 47 sekund",
-			"Kabel_Rozruchowy":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
-			"W_plenerze":"Projeďte určenou trasu bez kolizí a za méně než 25 sekund"
+			"Zawirowania":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Jak_w_zegarku":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Zadyma_na_zboczu":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Strefa_zagrozenia":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Granica_wytrzymalosci":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Piorun":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Kompozyt_weglowy":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Miecz_worpalny":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"Kabel_Rozruchowy":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund",
+			"W_plenerze":"Projeďte určenou trasu bez kolizí a za méně než __a__ sekund"
 		}
 	},
 	"ventura_bay_zakret_driftowy":{
@@ -345,16 +345,16 @@
 			"Block_w_bok":"Ken't Block this"
 		},
 		"popup":{
-			"Przytulny_zakatek":"Projeďte zatáčku driftem o minimálním skóre 3,500 bodů",
-			"Skandynawskie_szarpniecie":"Projeďte zatáčku driftem o minimálním skóre 3,000 bodů",
-			"Giecie_blotnikow":"Projeďte zatáčku driftem o minimálním skóre 4,000 bodů",
-			"Kontrobrot":"Projeďte zatáčku driftem o minimálním skóre 2,500 bodů",
-			"Solidne_fundamenty":"Projeďte zatáčku driftem o minimálním skóre 3,500 bodů",
-			"Guzik_z_petelka":"Projeďte zatáčku driftem o minimálním skóre 3,000 bodů",
-			"Dzielnica_driftu":"Projeďte zatáčku driftem o minimálním skóre 3,200 bodů",
-			"Szlifierka_do_metalu":"Projeďte zatáčku driftem o minimálním skóre 4,500 bodů",
-			"Raz_jeszcze":"Projeďte zatáčku driftem o minimálním skóre 3,000 bodů",
-			"Block_w_bok":"Projeďte zatáčku driftem o minimálním skóre 3,800 bodů"
+			"Przytulny_zakatek":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Skandynawskie_szarpniecie":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Giecie_blotnikow":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Kontrobrot":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Solidne_fundamenty":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Guzik_z_petelka":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Dzielnica_driftu":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Szlifierka_do_metalu":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Raz_jeszcze":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů",
+			"Block_w_bok":"Projeďte zatáčku driftem o minimálním skóre __a__ bodů"
 		}
 	}
 }
