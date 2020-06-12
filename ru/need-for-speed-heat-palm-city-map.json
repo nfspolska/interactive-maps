@@ -1,0 +1,42 @@
+{
+	"palm_city_warsztat":{
+		"label":"Гараж",
+		"popup":""
+	},
+	"palm_city_sklep_z_czesciami":{
+		"label":"Магазин запчастей",
+		"popup":""
+	},
+	"palm_city_salon_samochodowy":{
+		"label":"Автосалон",
+		"popup":""
+	},
+	"palm_city_stacja_benzynowa":{
+		"label":"Заправка",
+		"popup":""
+	},
+	"palm_city_graffiti":{
+		"label":"Стрит-Арт",
+		"popup":""
+	},
+	"palm_city_flaming":{
+		"label":"Фламинго",
+		"popup":""
+	},
+	"palm_city_billboard":{
+		"label":"Рекламный щит",
+		"popup":""
+	},
+	"palm_city_fotoradar":{
+		"label":"Радар",
+		"popup":""
+	},
+	"palm_city_skok":{
+		"label":"Прыжок",
+		"popup":""
+	},
+	"palm_city_strefa_driftu":{
+		"label":"Зона Дрифта",
+		"popup":""
+	}
+}
