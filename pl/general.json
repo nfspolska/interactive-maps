@@ -10,7 +10,8 @@
 		"fairhaven":"Fairhaven",
 		"redview-county":"Redview County",
 		"ventura-bay":"Ventura Bay",
-		"fortune-valley":"Fortune Valley"
+		"fortune-valley":"Fortune Valley",
+		"palm-city":"Palm City"
 	},
 	"home":{
 		"header":"Interaktywne mapy Need for Speed",
@@ -20,7 +21,7 @@
 	},
 	"sidebar":{
 		"returnToMapSelection":"Więcej map",
-		
+
 		"bayview_garaz":"Garaż",
 		"bayview_sklep_z_dodatkami":"Sklep z dodatkami",
 		"bayview_sklep_graficzny":"Sklep graficzny",
@@ -34,30 +35,30 @@
 		"bayview_sprint":"Sprint",
 		"bayview_informacja":"Informacja",
 		"bayview_gotowka":"Gotówka",
-		
+
 		"rockport_garaz":"Garaż",
 		"rockport_autokomis":"Autokomis",
 		"rockport_sklep":"Sklep",
 		"rockport_utrudniacz_poscigow":"Utrudniacz pościgów",
 		"rockport_kryjowka":"Kryjówka",
-		
+
 		"palmont_city_garaz":"Garaż",
 		"palmont_city_salon_samochodowy":"Salon samochodowy",
 		"palmont_city_utrudniacz_poscigow":"Utrudniacz pościgów",
 		"palmont_city_kryjowka":"Kryjówka",
 		"palmont_city_gang":"Gang",
-		
+
 		"tri_city_bay_garaz":"Garaż",
 		"tri_city_bay_utrudniacz_poscigow":"Utrudniacz pościgów",
 		"tri_city_bay_kryjowka":"Kryjówka",
-		
+
 		"redview_county_garaz":"Garaż",
 		"redview_county_posterunek":"Posterunek",
 		"redview_county_warsztat":"Warsztat",
 		"redview_county_skocznia":"Skocznia",
 		"redview_county_fotoradar":"Fotoradar",
 		"redview_county_strefa_predkosci":"Strefa prędkości",
-		
+
 		"ventura_bay_wazne_miejsce":"Ważne miejsce",
 		"ventura_bay_posterunek_policji":"Posterunek policji",
 		"ventura_bay_stacja_benzynowa":"Stacja benzynowa",
@@ -67,7 +68,7 @@
 		"ventura_bay_punkt_eksploracyjny":"Punkt eksploracyjny",
 		"ventura_bay_gonitwa":"Gonitwa",
 		"ventura_bay_zakret_driftowy":"Zakręt driftowy",
-		
+
 		"fortune_valley_garaz":"Garaż",
 		"fortune_valley_warsztat":"Warsztat",
 		"fortune_valley_salon_z_samochodami":"Salon z samochodami",
@@ -78,7 +79,18 @@
 		"fortune_valley_proba_predkosci":"Próba prędkości",
 		"fortune_valley_skok":"Skok",
 		"fortune_valley_strefa_driftu":"Strefa driftu",
-		"fortune_valley_wrak":"Wrak"
+		"fortune_valley_wrak":"Wrak",
+
+		"palm_city_warsztat":"Warsztat",
+		"palm_city_sklep_z_czesciami":"Sklep z częściami",
+		"palm_city_salon_samochodowy":"Salon samochodowy",
+		"palm_city_stacja_benzynowa":"Stacja benzynowa",
+		"palm_city_graffiti":"Graffiti",
+		"palm_city_flaming":"Flaming",
+		"palm_city_billboard":"Billboard",
+		"palm_city_fotoradar":"Fotoradar",
+		"palm_city_skok":"Skok",
+		"palm_city_strefa_driftu":"Strefa driftu"
 	},
 	"controls":{
 		"show":"Pokaż wszystko",
