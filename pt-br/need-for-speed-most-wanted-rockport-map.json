@@ -1,0 +1,22 @@
+{
+	"rockport_garaz":{
+		"label":"Garagem",
+		"popup":""
+	},
+	"rockport_autokomis":{
+		"label":"Autokomis",
+		"popup":""
+	},
+	"rockport_sklep":{
+		"label":"Sklep",
+		"popup":""
+	},
+	"rockport_utrudniacz_poscigow":{
+		"label":"Utrudniacz pościgów",
+		"popup":""
+	},
+	"rockport_kryjowka":{
+		"label":"Kryjówka",
+		"popup":""
+	}
+}
