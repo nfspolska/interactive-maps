@@ -8,23 +8,23 @@
 		},
 		"popup":{
 			"1":"Доступно с самого начала",
-			"2":"Стоимость: $22,500",
-			"3":"Стоимость: $31,500",
-			"4":"Стоимость: $27,000"
+			"2":"Стоимость: $25 000",
+			"3":"Стоимость: $35 000",
+			"4":"Стоимость: $30 000"
 		}
 	},
 	"fortune_valley_warsztat":{
-		"label":"Tune-up Shop",
+		"label":"Мастерская",
 		"popup":""
 	},
 	"fortune_valley_salon_z_samochodami":{
 		"label":{
 			"1":"Speedcross Dealership",
-			"2":"Off-road Dealership",
-			"3":"Race Dealership",
-			"4":"Drift Dealership",
-			"5":"Drag Dealership",
-			"6":"Runner Dealership"
+			"2":"Дилер - Бездорожье",
+			"3":"Дилер - Гоночный",
+			"4":"Дилер - Дрифт",
+			"5":"Дилер - Дрэг",
+			"6":"Дилер - Погоня"
 		},
 		"popup":{
 			"1":"",
@@ -40,11 +40,11 @@
 		"popup":""
 	},
 	"fortune_valley_skrzynia":{
-		"label":"Box",
+		"label":"Приманка",
 		"popup":""
 	},
 	"fortune_valley_zeton":{
-		"label":"Chip",
+		"label":"Фишка",
 		"popup":""
 	},
 	"fortune_valley_billboard":{
@@ -99,7 +99,7 @@
 			"44":"Starstruck",
 			"45":"One For The Books"
 		},
-		"popup":"&#9734; __a__ km/h<br />&#9734;&#9734; __b__ km/h<br />&#9734;&#9734;&#9734; __c__ km/h"
+		"popup":"&#9734; __a__ км/ч<br />&#9734;&#9734; __b__ км/ч<br />&#9734;&#9734;&#9734; __c__ км/ч"
 	},
 	"fortune_valley_proba_predkosci":{
 		"label":{
@@ -184,7 +184,7 @@
 			"79":"Flash Bang",
 			"80":"Flash Bang"
 		},
-		"popup":"&#9734; __a__ km/h<br />&#9734;&#9734; __b__ km/h<br />&#9734;&#9734;&#9734; __c__ km/h"
+		"popup":"&#9734; __a__ км/ч<br />&#9734;&#9734; __b__ км/ч<br />&#9734;&#9734;&#9734; __c__ км/ч"
 	},
 	"fortune_valley_skok":{
 		"label":{
@@ -219,7 +219,7 @@
 			"29":"Defying Gravity",
 			"30":"Like A Boss"
 		},
-		"popup":"&#9734; __a__ m<br />&#9734;&#9734; __b__ m<br />&#9734;&#9734;&#9734; __c__ m"
+		"popup":"&#9734; __a__ м<br />&#9734;&#9734; __b__ м<br />&#9734;&#9734;&#9734; __c__ м"
 	},
 	"fortune_valley_strefa_driftu":{
 		"label":{
@@ -284,7 +284,7 @@
 			"59":"Tacmac Meets Tires",
 			"60":"Tacmac Meets Tires"
 		},
-		"popup":"&#9734; __a__ pts<br />&#9734;&#9734; __b__ pts<br />&#9734;&#9734;&#9734; __c__ pts"
+		"popup":"&#9734; __a__ очков<br />&#9734;&#9734; __b__ очков<br />&#9734;&#9734;&#9734; __c__ очков"
 	},
 	"fortune_valley_wrak":{
 		"label":{
@@ -315,31 +315,31 @@
 			"25":"Nissan Fairlady 240ZG 1971"
 		},
 		"popup":{
-			"1":"Engine and propulsion system",
-			"2":"Body panels A",
-			"3":"Chassis.",
-			"4":"Accessories.",
-			"5":"Wheels and tires.",
-			"6":"Accessories.",
-			"7":"Wheels and tires.",
-			"8":"Body panels A",
-			"9":"Engine and propulsion system",
-			"10":"Chassis.",
-			"11":"Accessories.",
-			"12":"Wheels and tires.",
-			"13":"Body panels A",
-			"14":"Chassis.",
-			"15":"Engine and propulsion system",
-			"16":"Wheels and tyres.",
-			"17":"Body panels A",
-			"18":"Chassis.",
-			"19":"Accessories.",
-			"20":"Engine and propulsion system",
-			"21":"Chassis.",
-			"22":"Accessories.",
-			"23":"Engine and propulsion system",
-			"24":"Wheels and tires.",
-			"25":"A-body panels."
+			"1":"Двигатель и трансмиссия",
+			"2":"Кузовные детали А",
+			"3":"Корпус",
+			"4":"Аксессуары",
+			"5":"Колеса и покрышки",
+			"6":"Аксессуары",
+			"7":"Колеса и покрышки",
+			"8":"Кузовные детали А",
+			"9":"Двигатель и трансмиссия",
+			"10":"Корпус",
+			"11":"Аксессуары",
+			"12":"Колеса и покрышки",
+			"13":"Кузовные детали А",
+			"14":"Корпус",
+			"15":"Двигатель и трансмиссия",
+			"16":"Колеса и покрышки",
+			"17":"Кузовные детали А",
+			"18":"Корпус",
+			"19":"Аксессуары",
+			"20":"Двигатель и трансмиссия",
+			"21":"Корпус",
+			"22":"Аксессуары",
+			"23":"Двигатель и трансмиссия",
+			"24":"Колеса и покрышки",
+			"25":"Кузовные детали А"
 		}
 	}
 }
