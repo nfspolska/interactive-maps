@@ -1,0 +1,118 @@
+{
+	"maps":{
+		"olympic_city":"Olympic City",
+		"bayview":"Bayview",
+		"rockport":"Rockport",
+		"palmont_city":"Palmont City",
+		"tri-city_bay":"Tri-City Bay",
+		"world":"World",
+		"seacrest_county":"Seacrest County",
+		"fairhaven":"Fairhaven",
+		"redview-county":"Redview County",
+		"ventura-bay":"Ventura Bay",
+		"fortune-valley":"Fortune Valley"
+	},
+ 	"home":{
+		"header":"Need for Speed Interaktív Térkép",
+		"underDevelopment":"Fejlesztés alatt.",
+		"resultsFound":"Talált eredmény(ek).",
+		"searchPlaceholder":"Írj be keresési kifejezést..."
+	},
+	"sidebar":{
+		"returnToMapSelection":"További térképek",
+
+		"bayview_garaz":"Garázs",
+		"bayview_sklep_z_dodatkami":"Kiegészítők boltja",
+		"bayview_sklep_graficzny":"Grafikai üzlet",
+		"bayview_salon_samochodowy":"Autószalon",
+		"bayview_sklep_tuningowy":"Tuning műhely",
+		"bayview_sklep_z_karoseria":"Karosszéria bolt",
+		"bayview_drift":"Drift",
+		"bayview_tor":"Sziklacsúcs",
+		"bayview_street_x":"Street X",
+		"bayview_drag":"Drag",
+		"bayview_sprint":"Sprint",
+		"bayview_informacja":"Információ",
+		"bayview_gotowka":"Készpénz",
+
+		"rockport_garaz":"Garázs",
+		"rockport_autokomis":"Autószalon",
+		"rockport_sklep":"Bolt",
+		"rockport_utrudniacz_poscigow":"Akadályok",
+		"rockport_kryjowka":"Rejtekhelyek",
+
+		"palmont_city_garaz":"Garázs",
+		"palmont_city_salon_samochodowy":"Autószalon",
+		"palmont_city_utrudniacz_poscigow":"Akadályok",
+		"palmont_city_kryjowka":"Rejtekhelyek",
+		"palmont_city_gang":"Gang",
+
+		"tri_city_bay_garaz":"Garázs",
+		"tri_city_bay_utrudniacz_poscigow":"Akadályok",
+		"tri_city_bay_kryjowka":"Rejtekhelyek",
+
+		"redview_county_garaz":"Garázs",
+		"redview_county_posterunek":"Rendőrség",
+		"redview_county_warsztat":"Műhely",
+		"redview_county_skocznia":"Ugrató",
+		"redview_county_fotoradar":"Traffipax",
+		"redview_county_strefa_predkosci":"Speed Zóna",
+
+		"ventura_bay_wazne_miejsce":"Fontos hely",
+		"ventura_bay_posterunek_policji":"Rendőrség",
+		"ventura_bay_stacja_benzynowa":"Benzinkút",
+		"ventura_bay_punkt_widokowy":"Vista Hely",
+		"ventura_bay_miejsce_do_krecenia_baczkow":"Fánk Hely",
+		"ventura_bay_darmowa_czesc":"Ingyen Alkatrész",
+		"ventura_bay_punkt_eksploracyjny":"Urbex Hely",
+		"ventura_bay_gonitwa":"Speed Run",
+		"ventura_bay_zakret_driftowy":"Drift Zóna",
+
+		"fortune_valley_garaz":"Garázs",
+		"fortune_valley_warsztat":"Tuning Műhely",
+		"fortune_valley_salon_z_samochodami":"Autókereskedés",
+		"fortune_valley_skrzynia":"Doboz",
+		"fortune_valley_zeton":"Chip",
+		"fortune_valley_billboard":"Hirdetőtábla",
+		"fortune_valley_fotoradar":"Traffipax",
+		"fortune_valley_proba_predkosci":"Speed Trap",
+		"fortune_valley_skok":"Ugrató",
+		"fortune_valley_strefa_driftu":"Drift Zóna",
+		"fortune_valley_wrak":"Roncs",
+
+		"palm_city_garaz":"Garázs",
+		"palm_city_sklep_z_czesciami":"Alkatrész bolt",
+		"palm_city_salon_samochodowy":"Autókereskedés",
+		"palm_city_stacja_benzynowa":"Benzinkút",
+		"palm_city_graffiti":"Graffitik",
+		"palm_city_flaming":"Flamingó",
+		"palm_city_billboard":"Hirdetőtábla",
+		"palm_city_fotoradar":"Speed Trap",
+		"palm_city_skok":"Ugrató",
+		"palm_city_strefa_driftu":"Drift Zóna"
+	},
+	"controls":{
+		"show":"Minden mutatása",
+		"hide":"Minden elrejtése",
+		"showCounts":"Darabszámok megjelenítése",
+		"hideCounts":"Darabszámok elrejtése",
+		"resetInvisible":"Elrejtett(ek) visszaállítása",
+		"resetInvisConfirm":"Ez az összes eddig elrejtett/megjelölt jelölést visszaállítja az eredeti (látható) helyzetébe. Biztos vagy benne?",
+		"helpFeatures":"Funkciók és Segítség",
+		"credits":"Kreditek",
+		"backupSave":"Ez le fog tölteni egy mentést az összes eddigi Need for Speed Térkép beállításaidról.\n\nA fájl __fileName__ néven lesz elmentve.\n\nBiztosan szeretnéd folytatni?",
+		"backupLoad":"Előző beállítások visszaállítása:",
+		"backupLoadSuccess":"Sikeresen visszaállítottuk a beállításaid!",
+		"backupLoadFail":"Beállítások visszaállítása sikertelen, kérlek ellenőrizd a fájlod!",
+		"backupHtmlFail":"Sajnáljuk, de a visszaállítás nem lehetséges.  A böngésződ nem támogat HTML5 File API-okat."
+	},
+	"credits":{
+		"botAssets":"A Need for Speed, logó, ikonok, térképek &amp; és szövegek a __cdpr__ tulajdonában állnak."
+	},
+	"misc":{
+		"contribute":"Fejlesztés folyamatban! Segítséged nagyra értékeljük: __link__",
+		"discuss":"Visszajelzésed vagy javaslatod van? Tedd közzé itt: __link__",
+		"helpTranslate":"Szeretnél fordításokat hozzáadni az oldalhoz, vagy azokon javítani?",
+		"portraitWarn":"Megjegyzés: a térképek legjobban fektetett módban látszódnak. Koppints az elrejtéshez."
+	}
+}
