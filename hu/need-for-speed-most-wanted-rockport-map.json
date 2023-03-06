@@ -1,0 +1,22 @@
+{
+	"rockport_garaz":{
+		"label":"Garázs",
+		"popup":""
+	},
+	"rockport_autokomis":{
+		"label":"Autószalon",
+		"popup":""
+	},
+	"rockport_sklep":{
+		"label":"Bolt",
+		"popup":""
+	},
+	"rockport_utrudniacz_poscigow":{
+		"label":"Akadályok",
+		"popup":""
+	},
+	"rockport_kryjowka":{
+		"label":"Rejtekhelyek",
+		"popup":""
+	}
+}

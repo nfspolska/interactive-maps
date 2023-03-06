@@ -1,0 +1,360 @@
+{
+	"ventura_bay_wazne_miejsce":{
+		"label":{
+			"Garaz":"Garázs",
+			"Przyczepa_Robyn":"Robyn's Lakókocsija",
+			"The_Longhorn":"The Longhorn",
+			"Bunkier":"Bunker",
+			"Diner":"Diner"
+		},
+		"popup":{
+			"Garaz":"Itt tudod az autódat lecserelni vagy tuningolni.",
+			"Przyczepa_Robyn":"Travis csapatának találkozó helye",
+			"The_Longhorn":"Travis csapatának találkozó helye",
+			"Bunkier":"Travis csapatának találkozó helye",
+			"Diner":"Travis csapatának találkozó helye"
+		}
+	},
+	"ventura_bay_posterunek_policji":{
+		"label":{
+			"Los_Sol":"Los Sol-i Rendőrség",
+			"Lone_Palm":"Lone Palm-i Rendőrség",
+			"Ventura_Bay":"Ventura Bay-i Rendőrség",
+			"Franklin_Terrace":"Franklin Terrace-i Rendőrség"
+		},
+		"popup":{
+			"Los_Sol":"Ez a hely Los Sol-ban tele van rendőrökkel!",
+			"Lone_Palm":"Ez a hely Lone Palm-ban tele van rendőrökkel!",
+			"Ventura_Bay":"Ez a hely Ventura Bay-ben tele van rendőrökkel!",
+			"Franklin_Terrace":"Ez a hely Franklin Terrace-ben tele van rendőrökkel!"
+		}
+	},
+	"ventura_bay_stacja_benzynowa":{
+		"label":{
+			"Granite_Spring":"Granite Spring-i Benzinkút",
+			"Los_Sol":"Los Sol-i Benzinkút",
+			"Most_Los_Sol":"Los Sol Hídi Benzinkút",
+			"Millenium_Plaza":"Millenium Plázai Benzinkút",
+			"Lone_Palm":"Lone Palm-i Benzinkút",
+			"Esplanade":"Esplanade-i Benzinkút",
+			"East_Esplanade":"East Esplanade-i Benzinkút",
+			"Arcadia":"Arcadia-i Benzinkút",
+			"Centrum_Sztuki_Ventura_Bay":"Ventura Bay Művészet Közpotnja melletti Benzinkút",
+			"Kompleks_petrochemiczny":"Petrolkémiai Üzem Benzinkút",
+			"Harbor_View":"Harbor View-i Benzinkút",
+			"Port":"Harbor-i Benzinkút",
+			"Apollo_Heights":"Apollo Heights-i Benzinkút",
+			"BBA_Industries":"BBA Industries melletti Benzinkút"
+		},
+		"popup":{
+			"Granite_Spring":"Itt meg tudod javítani a sérült autód.",
+			"Los_Sol":"Itt meg tudod javítani a sérült autód.",
+			"Most_Los_Sol":"Itt meg tudod javítani a sérült autód.",
+			"Millenium_Plaza":"Itt meg tudod javítani a sérült autód.",
+			"Lone_Palm":"Itt meg tudod javítani a sérült autód.",
+			"Esplanade":"Itt meg tudod javítani a sérült autód.",
+			"East_Esplanade":"Itt meg tudod javítani a sérült autód.",
+			"Arcadia":"Itt meg tudod javítani a sérült autód.",
+			"Centrum_Sztuki_Ventura_Bay":"Itt meg tudod javítani a sérült autód.",
+			"Kompleks_petrochemiczny":"Itt meg tudod javítani a sérült autód.",
+			"Harbor_View":"Itt meg tudod javítani a sérült autód.",
+			"Port":"Itt meg tudod javítani a sérült autód.",
+			"Apollo_Heights":"Itt meg tudod javítani a sérült autód.",
+			"BBA_Industries":"Itt meg tudod javítani a sérült autód."
+		}
+	},
+	"ventura_bay_punkt_widokowy":{
+		"label":{
+			"Weid_Canyon-zapora":"Weid Canyon Gát",
+			"Crescent_Mountain-panorama":"Crescent Mountain View",
+			"Weid_Canyon-rzeka":"Weid Canyon River",
+			"Granite_Springs-panorama":"Granite Springs View",
+			"Granite_Springs-pomnik":"Granite Springs Monument",
+			
+			"Beckenholl-panorama":"Beckenholl View",
+			"Cross_Roads-panorama":"Cross Roads View",
+			"Shoreline_Front-zatoka":"Shoreline Front Bay",
+			"Ventura_Bay-panorama":"Ventura Bay Skyline",
+			"Ventura_Bay-centrum":"Ventura Bay Downtown",
+			
+			"Stadion_Ghost":"Ghost Stadium",
+			"Millennium-most":"Millennium Bridge",
+			"Lone_Palm_Village-skrzyzowanie":"Lone Palm Village Crossing",
+			"East_Esplanade-stare_fabryki":"East Esplanade Old factory",
+			"Arcadia-park":"Arcadia Park",
+			
+			"Ventura_Bay-centrum_sztuki":"Ventura Bay Art Centre",
+			"Kompleks_petrochemiczny_VB":"VB Petrochemical Centre",
+			"San_Pedro-port":"San Pedro - harbor",
+			"Navy_Pier":"Navy Pier",
+			"South_Port-most":"South Port Bridge",
+			
+			"Franklin_Terrace-panorama":"Franklin Terrace View",
+			"Morphus":"Morphus",
+			"Harbor_View-centrum_handlowe":"Harbor View Mall",
+			"Apollo_Heights":"Apollo Heights",
+			"BBA_Industries":"BBA Industries",
+			
+			"Castle_Hill-stacja_uzdatniania_wody":"Castle Hill Water Treatment Plant",
+			"Sinners_Peak-obserwatorium":"Sinner's Peak Observatory",
+			"ElRay-molo":"El Rey Pier",
+			"Ventura_Bay-widok_na_ocean":"Ventura Bay Ocean View",
+			"Bishop_Rock-wzgorza":"Bishop Rock Hills"
+		},
+		"popup":{
+			"Weid_Canyon-zapora":"",
+			"Crescent_Mountain-panorama":"",
+			"Weid_Canyon-rzeka":"",
+			"Granite_Springs-panorama":"",
+			"Granite_Springs-pomnik":"",
+			
+			"Beckenholl-panorama":"",
+			"Cross_Roads-panorama":"",
+			"Shoreline_Front-zatoka":"",
+			"Ventura_Bay-panorama":"",
+			"Ventura_Bay-centrum":"",
+			
+			"Stadion_Ghost":"",
+			"Millennium-most":"",
+			"Lone_Palm_Village-skrzyzowanie":"",
+			"East_Esplanade-starefabryki":"",
+			"Arcadia-park":"",
+			
+			"Ventura_Bay-centrum_sztuki":"",
+			"Kompleks_petrochemiczny_VB":"",
+			"San_Pedro-port":"",
+			"Navy_Pier":"",
+			"South_Port-most":"",
+			
+			"Franklin_Terrace-panorama":"",
+			"Morphus":"",
+			"Harbor_View-centrum_handlowe":"",
+			"Apollo_Heights":"",
+			"BBA_Industries":"",
+			
+			"Castle_Hill-stacja_uzdatniania_wody":"",
+			"Sinners_Peak-obserwatorium":"",
+			"El_Ray-molo":"",
+			"Ventura_Bay-widok_na_ocean":"",
+			"Bishop_Rock-wzgorza":""
+		}
+	},
+	"ventura_bay_miejsce_do_krecenia_baczkow":{
+		"label":{
+			"Wulkano-zacja":"Café au Creme",
+			"Pieklo_pod_maska":"Evil Caramel",
+			"Czarny_dym":"Chocolate Orange",
+			"Ruszyl_Ziemie":"Apple Crumble",
+			"B_jak_baczek":"Nutty Choco Fudge",
+			
+			"Zawroty_glowy":"Maple Bacon",
+			"W_kolko_Macieju":"Koko Ganache",
+			"Kola_fortuny":"Sprinkle Frost",
+			"Wirujacy_sens":"Fudge Dream",
+			"Miotacz_ognia":"Lemon Refresher",
+			
+			"Tornado":"Locococo",
+			"Slady_na_ulicy":"Butter Fiesta",
+			"Zakrecona_zakrecona":"Purple Glaze",
+			"Czarna_dziura":"Verry Berry",
+			"Disco-bak":"Deep Almond",
+			
+			"Wkrecanie_sruby":"Cinnamoney",
+			"Iskry_z_alufelg":"Honeylicious",
+			"Zwijanie_asfaltu":"Frosted Devil",
+			"Szalony_spin":"Chestnut Heaven",
+			"Wokol_slonca":"Nasty Glazed",
+			
+			"Kalabanga":"Dizzled Dough",
+			"Ale_urwal":"Pecan Punch",
+			"Malowane_amelinium":"Vanilla Monster",
+			"Smola_spod_kola":"Marshmallow Pop",
+			"Taki_mamy_klimat":"Rockhard Melts",
+			
+			"Kolko_graniaste":"Choc n' Chip",
+			"Silnik_w_ogniu":"Sugar Booger",
+			"Kalejdoskop":"Angel Whip",
+			"Rozkrecanie_imprezy":"Giant Sin",
+			"Hula-hoop":"Crack-a-Nutta"
+		},
+		"popup":{
+			"Wulkano-zacja":"",
+			"Pieklo_pod_maska":"",
+			"Czarny_dym":"",
+			"Ruszyl_Ziemie":"",
+			"B_jak_baczek":"",
+			
+			"Zawroty_glowy":"",
+			"W_kolko_Macieju":"",
+			"Kola_fortuny":"",
+			"Wirujacy_sens":"",
+			"Miotacz_ognia":"",
+			
+			"Tornado":"",
+			"Slady_na_ulicy":"",
+			"Zakrecona_zakrecona":"",
+			"Czarna_dziura":"",
+			"Disco-bak":"",
+			
+			"Wkrecanie_sruby":"",
+			"Iskry_z_alufelg":"",
+			"Zwijanie_asfaltu":"",
+			"Szalony_spin":"",
+			"Wokol_slonca":"",
+			
+			"Kalabanga":"",
+			"Ale_urwal":"",
+			"Malowane_amelinium":"",
+			"Smola_spod_kola":"",
+			"Taki_mamy_klimat":"",
+			
+			"Kolko_graniaste":"",
+			"Silnik_w_ogniu":"",
+			"Kalejdoskop":"",
+			"Rozkrecanie_imprezy":"",
+			"Hula-hoop":""
+		}
+	},
+	"ventura_bay_darmowa_czesc":{
+		"label":{
+			"20":"Ingyen Darab #20",
+			"12":"Ingyen Darab #12",
+			"18":"Ingyen Darab #18",
+			"1":"Ingyen Darab #1",
+			"15":"Ingyen Darab #15",
+			
+			"10":"Ingyen Darab #10",
+			"11":"Ingyen Darab #11",
+			"23":"Ingyen Darab #23",
+			"13":"Ingyen Darab #13",
+			"19":"Ingyen Darab #19",
+			
+			"21":"Ingyen Darab #21",
+			"2":"Ingyen Darab #2",
+			"3":"Ingyen Darab #3",
+			"22":"Ingyen Darab #22",
+			"14":"Ingyen Darab #14",
+			
+			"6":"Ingyen Darab #6",
+			"5":"Ingyen Darab #5",
+			"8":"Ingyen Darab #8",
+			"16":"Ingyen Darab #16",
+			"9":"Ingyen Darab #9",
+			
+			"17":"Ingyen Darab #17",
+			"4":"Ingyen Darab #4",
+			"7":"Ingyen Darab #7",
+			"24":"Ingyen Darab #24"
+		},
+		"popup":{
+			"20":"Street stílusú lökhárító Honda Civic-re",
+			"12":"Nitro henger (idővel) - 2,3 kg kapacitás",
+			"18":"Légbeömlő Lotus-ra",
+			"1":"Tengelykapcsoló 0.1 másodperces sebességváltási idővel",
+			"15":"Légbeömlő Volvo-ra",
+			
+			"10":"Intercooler SZ x M 26 x 6",
+			"11":"EliteTune-SC-V1-TUNER kompresszor",
+			"23":"Oldalsó küszöbök Dodge Challenger SRT-re",
+			"13":"Nagy gyári lökhárítók GTI Golf-ra",
+			"19":"Type I verseny lökhárító Honda Civic-re",
+			
+			"21":"Széles street-stílusú lökhárító Dodge Challenger SRT-re",
+			"2":"Csere légszűrő",
+			"3":"Préselt üzemanyag-szivattyú",
+			"22":"Versenyoldali küszöbök Honda Civic-re",
+			"14":"Légbeömlő GTI Golf-ra",
+			
+			"6":"Verseny kipufogórendszer katalizátor nélkül",
+			"5":"Collector EL",
+			"8":"Préselt vezérműtengely Elite.4 szelep nyitási idővel (szívás/lejárat): 243/283",
+			"16":"Street-stílusú sárvédő Mustang-65-re",
+			"9":"Ground Elite Tuning bemenetek v.2",
+			
+			"17":"Carbon kompozit terelők Lotusra",
+			"4":"Teljesen állítható fékek",
+			"7":"Teljesen állítható kézifék",
+			"24":"Széles street-stílusú lökhárító Volvo-ra"
+		}
+	},
+	"ventura_bay_punkt_eksploracyjny":{
+		"label":{
+			"Nerd":"The Nerd",
+			"Kryjowka_idealna":"Perfect Hideout",
+			"Wrak_pociagu":"Train Wreck",
+			"Piksel":"Pixel",
+			"Szaman":"Shaman",
+			
+			"Mural_z_monoklem":"Monocle Mural",
+			"Pasek_zycia":"Life Bar",
+			"Nancy":"Nancy",
+			"Wieza_cisnien_z_wzorem_maskujacym":"Camouflaged Water Tower",
+			"Twarz_w_skale":"Face in the Rock"
+		},
+		"popup":{
+			"Nerd":"",
+			"Kryjowka_idealna":"",
+			"Wrak_pociagu":"",
+			"Piksel":"",
+			"Szaman":"",
+			
+			"Mural_z_monoklem":"",
+			"Pasek_zycia":"",
+			"Nancy":"",
+			"Wieza_cisnien_z_wzorem_maskujacym":"",
+			"Twarz_w_skale":""
+		}
+	},
+	"ventura_bay_gonitwa":{
+		"label":{
+			"Zawirowania":"Warped",
+			"Jak_w_zegarku":"Like Clockwork",
+			"Zadyma_na_zboczu":"Downhill Hustle",
+			"Strefa_zagrozenia":"Danger Zone",
+			"Granica_wytrzymalosci":"Breaking Point",
+			"Piorun":"Thunder",
+			"Kompozyt_weglowy":"Carbon Fiber",
+			"Miecz_worpalny":"Vorpal Blade",
+			"Kabel_Rozruchowy":"Jumper Cable",
+			"W_plenerze":"Wildlife"
+		},
+		"popup":{
+			"Zawirowania":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Jak_w_zegarku":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Zadyma_na_zboczu":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Strefa_zagrozenia":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Granica_wytrzymalosci":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Piorun":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Kompozyt_weglowy":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Miecz_worpalny":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"Kabel_Rozruchowy":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül",
+			"W_plenerze":"Kövesd a kijelölt útvonalat __a__ másodpercig ütközés nélkül"
+		}
+	},
+	"ventura_bay_zakret_driftowy":{
+		"label":{
+			"Przytulny_zakatek":"Cozy Nook",
+			"Skandynawskie_szarpniecie":"Scandinavian Flick",
+			"Giecie_blotnikow":"lökhárító Bender",
+			"Kontrobrot":"Counter Spun",
+			"Solidne_fundamenty":"Ground Floor",
+			"Guzik_z_petelka":"Loop the Loop",
+			"Dzielnica_driftu":"The Drift Side",
+			"Szlifierka_do_metalu":"Metal Grinder",
+			"Raz_jeszcze":"One More",
+			"Block_w_bok":"Ken't Block This"
+		},
+		"popup":{
+			"Przytulny_zakatek":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Skandynawskie_szarpniecie":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Giecie_blotnikow":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Kontrobrot":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Solidne_fundamenty":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Guzik_z_petelka":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Dzielnica_driftu":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Szlifierka_do_metalu":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Raz_jeszcze":"Drifetlj a kanyarban és érj el minimum __a__ pontot.",
+			"Block_w_bok":"Drifetlj a kanyarban és érj el minimum __a__ pontot."
+		}
+	}
+}
