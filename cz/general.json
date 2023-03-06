@@ -1,0 +1,118 @@
+{
+	"maps":{
+		"olympic_city":"Olympic City",
+		"bayview":"Bayview",
+		"rockport":"Rockport",
+		"palmont_city":"Palmont City",
+		"tri-city_bay":"Tri-City Bay",
+		"world":"World",
+		"seacrest_county":"Seacrest County",
+		"fairhaven":"Fairhaven",
+		"redview-county":"Redview County",
+		"ventura-bay":"Ventura Bay",
+		"fortune-valley":"Fortune Valley"
+	},
+	"home":{
+		"header":"Interaktivní Mapy Need for Speed",
+		"underDevelopment":"V současnosti ve vývoji",
+		"resultsFound":"Nalezené výsledky.",
+		"searchPlaceholder":"Zadejte hledaný výraz..."
+	},
+	"sidebar":{
+		"returnToMapSelection":"Vrátit se na výběr mapy",
+
+		"bayview_garaz":"Garáž",
+		"bayview_sklep_z_dodatkami":"Prodejna specialit",
+		"bayview_sklep_graficzny":"Prodejna grafických úprav",
+		"bayview_salon_samochodowy":"Prodejna aut",
+		"bayview_sklep_tuningowy":"Prodejna výkonnostních dílů",
+		"bayview_sklep_z_karoseria":"Prodejna dílů na karoserii",
+		"bayview_drift":"Drift",
+		"bayview_tor":"Okruh",
+		"bayview_street_x":"Street X",
+		"bayview_drag":"Drag",
+		"bayview_sprint":"Sprint",
+		"bayview_informacja":"Informace",
+		"bayview_gotowka":"Bankovka",
+
+		"rockport_garaz":"Garáž",
+		"rockport_autokomis":"Prodejna aut",
+		"rockport_sklep":"Prodejna součástek",
+		"rockport_utrudniacz_poscigow":"Pursuit breaker",
+		"rockport_kryjowka":"Skrýš",
+
+		"palmont_city_garaz":"Garáž",
+		"palmont_city_salon_samochodowy":"Prodejna aut",
+		"palmont_city_utrudniacz_poscigow":"Pursuit breaker",
+		"palmont_city_kryjowka":"Skrýš",
+		"palmont_city_gang":"Gang",
+
+		"tri_city_bay_garaz":"Garáž",
+		"tri_city_bay_utrudniacz_poscigow":"Pursuit breaker",
+		"tri_city_bay_kryjowka":"Skrýš",
+
+		"redview_county_garaz":"Garáž",
+		"redview_county_posterunek":"Policejní Stanoviště",
+		"redview_county_warsztat":"Průjezdná Opravna",
+		"redview_county_skocznia":"Skok",
+		"redview_county_fotoradar":"Radar",
+		"redview_county_strefa_predkosci":"Rychlostní Úsek",
+
+		"ventura_bay_wazne_miejsce":"Důležitá Místa",
+		"ventura_bay_posterunek_policji":"Policejní Stanice",
+		"ventura_bay_stacja_benzynowa":"Čerpací Stanice",
+		"ventura_bay_punkt_widokowy":"Přírodní Vyhlídka",
+		"ventura_bay_miejsce_do_krecenia_baczkow":"Místo Pro „Donuty“",
+		"ventura_bay_darmowa_czesc":"Součástky Zdarma",
+		"ventura_bay_punkt_eksploracyjny":"Městský Průzkum",
+		"ventura_bay_gonitwa":"Speed Run",
+		"ventura_bay_zakret_driftowy":"Drift Corner",
+
+		"fortune_valley_garaz":"Garáž",
+		"fortune_valley_warsztat":"Prodejna součástek",
+		"fortune_valley_salon_z_samochodami":"Prodejna aut",
+		"fortune_valley_skrzynia":"Policejní návnada",
+		"fortune_valley_zeton":"Žeton",
+		"fortune_valley_billboard":"Billboard",
+		"fortune_valley_fotoradar":"Radar",
+		"fortune_valley_proba_predkosci":"Rychlostní zóna",
+		"fortune_valley_skok":"Skok",
+		"fortune_valley_strefa_driftu":"Driftovací zóna",
+		"fortune_valley_wrak":"Vrak",
+
+		"palm_city_garaz":"Garage",
+		"palm_city_sklep_z_czesciami":"Sklep z częściami",
+		"palm_city_salon_samochodowy":"Salon samochodowy",
+		"palm_city_stacja_benzynowa":"Gas Station",
+		"palm_city_graffiti":"Street Art",
+		"palm_city_flaming":"Flamingo",
+		"palm_city_billboard":"Billboard",
+		"palm_city_fotoradar":"Speed Trap",
+		"palm_city_skok":"Jump",
+		"palm_city_strefa_driftu":"Drift Zone"
+	},
+	"controls":{
+		"show":"Zobrazit Vše",
+		"hide":"Skrýt Vše",
+		"showCounts":"Zobrazit Počet",
+		"hideCounts":"Skrýt Počet",
+		"resetInvisible":"Resetovat Skryté",
+		"resetInvisConfirm":"Tímto obnovíte všechny skryté značky do jejich původního stavu (viditelné), jste si tímto krokem jistí?",
+		"helpFeatures":"Funkce a Nápověda",
+		"credits":"Tvůrci",
+		"backupSave":"Tímto se stáhne záložní kopie všech nastavení aplikace Need for Speed Map. Soubor bude uložen jako: __fileName__ Jste si tímto krokem jistí?",
+		"backupLoad":"Obnovte nastavení:",
+		"backupLoadSuccess":"Obnovení dat dokončeno!",
+		"backupLoadFail":"Obnovení se nezdařilo, zkontrolujte soubor",
+		"backupHtmlFail":"Omlouváme se. Obnovení není možné. Tento prohlížeč nepodporuje HTML5 File APIs."
+	},
+	"credits":{
+		"botAssets":"Need for Speed, logo, ikony, mapy a text jsou majetkem __cdpr__"
+	},
+	"misc":{
+		"contribute":"Ve vývoji! Každá pomoc oceněna na __link__",
+		"discuss":"Zpětná vazba, podněty? Diskutujte na __link__",
+		"helpTranslate":"Chcete přispět nebo zlepšit překlady?",
+		"portraitWarn":"Poznámka: mapa je optimalizovaná pro režim na šířku, kliknout pro zrušení"
+	}
+}
