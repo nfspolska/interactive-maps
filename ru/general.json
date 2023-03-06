@@ -69,16 +69,16 @@
 		"ventura_bay_zakret_driftowy":"Zakręt driftowy",
 		
 		"fortune_valley_garaz":"Гараж",
-		"fortune_valley_warsztat":"Warsztat",
-		"fortune_valley_salon_z_samochodami":"Salon z samochodami",
-		"fortune_valley_skrzynia":"Skrzynia",
-		"fortune_valley_zeton":"Знак",
+		"fortune_valley_warsztat":"Мастерская",
+		"fortune_valley_salon_z_samochodami":"Дилер",
+		"fortune_valley_skrzynia":"Приманка",
+		"fortune_valley_zeton":"Фишка",
 		"fortune_valley_billboard":"Рекламный щит",
 		"fortune_valley_fotoradar":"Радар",
-		"fortune_valley_proba_predkosci":"Próba prędkości",
-		"fortune_valley_skok":"Skok",
-		"fortune_valley_strefa_driftu":"Strefa driftu",
-		"fortune_valley_wrak":"Wreck",
+		"fortune_valley_proba_predkosci":"Заезд на время",
+		"fortune_valley_skok":"Прыжок",
+		"fortune_valley_strefa_driftu":"Зона дрифта",
+		"fortune_valley_wrak":"Реликивия",
 
 		"palm_city_garaz":"Гараж",
 		"palm_city_sklep_z_czesciami":"Магазин запчастей",
@@ -104,15 +104,15 @@
 		"backupLoad":"Восстановить ваши настройки:",
 		"backupLoadSuccess":"Восстановление данных завершено!",
 		"backupLoadFail":"Не удалось восстановить, проверьте файл ещё раз",
-		"backupHtmlFail":"Извините.  Восстановление невозможно.  Данный браузер не поддерживает HTML5 File APIs."
+		"backupHtmlFail":"Извините. Восстановление невозможно. Данный браузер не поддерживает HTML5 File APIs."
 	},
 	"credits":{
 		"botAssets":"Need for Speed, logo, icons, map &amp; text are the property of __cdpr__"
 	},
 	"misc":{
-		"contribute":"Work in progress! Help appreciated at __link__",
-		"discuss":"Feedback, suggestions? Discuss on __link__",
-		"helpTranslate":"Want to help or improve translations?",
-		"portraitWarn":"Note: the map is best viewed in landscape mode, tap to dismiss"
+		"contribute":"Сайт в работе! Помощь приветствуется на __link__",
+		"discuss":"Есть отзывы и предложения? Обсуждение на __link__",
+		"helpTranslate":"Хотите улучшить перевод?",
+		"portraitWarn":"Примечание: карту лучше просматривать в альбомном режиме, нажмите чтобы закрыть"
 	}
 }
