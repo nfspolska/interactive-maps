@@ -1,0 +1,38 @@
+{
+	"lakeshore_city_garaz":{
+		"label":"Garage",
+		"popup":""
+	},
+	"lakeshore_city_stacja_benzynowa":{
+		"label":"Gas Station",
+		"popup":""
+	},
+	"lakeshore_city_graffiti":{
+		"label":"Street Art",
+		"popup":""
+	},
+	"lakeshore_city_niedzwiedz":{
+		"label":"Bear",
+		"popup":""
+	},
+	"lakeshore_city_billboard":{
+		"label":"Billboard",
+		"popup":""
+	},
+	"lakeshore_city_fotoradar":{
+		"label":"Speed trap",
+		"popup":""
+	},
+	"lakeshore_city_skok":{
+		"label":"Long Jump",
+		"popup":""
+	},
+	"lakeshore_city_proba_predkosci":{
+		"label":"Speed Run",
+		"popup":""
+	},
+	"lakeshore_city_strefa_driftu":{
+		"label":"Drift Zone",
+		"popup":""
+	}
+}
