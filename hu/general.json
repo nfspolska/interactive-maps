@@ -99,7 +99,8 @@
 		"lakeshore_city_fotoradar":"Speed trap",
 		"lakeshore_city_skok":"Long Jump",
 		"lakeshore_city_proba_predkosci":"Speed Run",
-		"lakeshore_city_strefa_driftu":"Drift Zone"
+		"lakeshore_city_strefa_driftu":"Drift Zone",
+		"lakeshore_city_szybkie_okrazenie":"Hot Lap"
 	},
 	"controls":{
 		"show":"Minden mutatása",
