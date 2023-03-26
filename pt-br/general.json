@@ -90,7 +90,17 @@
 		"palm_city_billboard":"Billboard",
 		"palm_city_fotoradar":"Fotoradar",
 		"palm_city_skok":"Skok",
-		"palm_city_strefa_driftu":"Strefa driftu"
+		"palm_city_strefa_driftu":"Strefa driftu",
+
+		"lakeshore_city_garaz":"Garage",
+		"lakeshore_city_graffiti":"Street Art",
+		"lakeshore_city_niedzwiedz":"Bear",
+		"lakeshore_city_billboard":"Billboard",
+		"lakeshore_city_fotoradar":"Speed trap",
+		"lakeshore_city_skok":"Long Jump",
+		"lakeshore_city_proba_predkosci":"Speed Run",
+		"lakeshore_city_strefa_driftu":"Drift Zone",
+		"lakeshore_city_szybkie_okrazenie":"Hot Lap"
 	},
 	"controls":{
 		"show":"Pokaż wszystko",
