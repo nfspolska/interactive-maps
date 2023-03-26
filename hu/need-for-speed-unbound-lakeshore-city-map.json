@@ -34,5 +34,9 @@
 	"lakeshore_city_strefa_driftu":{
 		"label":"Drift Zone",
 		"popup":""
+	},
+	"lakeshore_city_szybkie_okrazenie":{
+		"label":"Hot Lap",
+		"popup":""
 	}
 }
