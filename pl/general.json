@@ -90,7 +90,17 @@
 		"palm_city_billboard":"Billboard",
 		"palm_city_fotoradar":"Fotoradar",
 		"palm_city_skok":"Skok",
-		"palm_city_strefa_driftu":"Strefa driftu"
+		"palm_city_strefa_driftu":"Strefa driftu",
+
+		"lakeshore_city_garaz":"Garaż",
+		"lakeshore_city_graffiti":"Graffiti",
+		"lakeshore_city_niedzwiedz":"Niedźwiedź",
+		"lakeshore_city_billboard":"Billboard",
+		"lakeshore_city_fotoradar":"Fotoradar",
+		"lakeshore_city_skok":"Skok",
+		"lakeshore_city_proba_predkosci":"Próba prędkości",
+		"lakeshore_city_strefa_driftu":"Strefa driftu",
+		"lakeshore_city_szybkie_okrazenie":"Szybkie okrążenie"
 	},
 	"controls":{
 		"show":"Pokaż wszystko",
