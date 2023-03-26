@@ -34,5 +34,9 @@
 	"lakeshore_city_strefa_driftu":{
 		"label":"Strefa driftu",
 		"popup":""
+	},
+	"lakeshore_city_szybkie_okrazenie":{
+		"label":"Szybkie okrążenie",
+		"popup":""
 	}
 }
