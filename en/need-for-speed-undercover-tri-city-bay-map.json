@@ -1,14 +1,14 @@
 {
 	"tri_city_bay_garaz":{
-		"label":"Garaż",
+		"label":"Garage",
 		"popup":""
 	},
 	"tri_city_bay_utrudniacz_poscigow":{
-		"label":"Utrudniacz pościgów",
+		"label":"Pursuit impeder",
 		"popup":""
 	},
 	"tri_city_bay_kryjowka":{
-		"label":"Kryjówka",
+		"label":"Hideout",
 		"popup":""
 	}
 }
