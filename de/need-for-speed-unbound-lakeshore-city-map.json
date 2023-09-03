@@ -1,0 +1,42 @@
+{
+	"lakeshore_city_garaz":{
+		"label":"Garage",
+		"popup":""
+	},
+	"lakeshore_city_stacja_benzynowa":{
+		"label":"Tankstelle",
+		"popup":""
+	},
+	"lakeshore_city_graffiti":{
+		"label":"Street-Art",
+		"popup":""
+	},
+	"lakeshore_city_niedzwiedz":{
+		"label":"Bear Champ",
+		"popup":""
+	},
+	"lakeshore_city_billboard":{
+		"label":"Plakatwand",
+		"popup":""
+	},
+	"lakeshore_city_fotoradar":{
+		"label":"Speed-Trap",
+		"popup":""
+	},
+	"lakeshore_city_skok":{
+		"label":"Sprung",
+		"popup":""
+	},
+	"lakeshore_city_proba_predkosci":{
+		"label":"Speedrun",
+		"popup":""
+	},
+	"lakeshore_city_strefa_driftu":{
+		"label":"Driftzone",
+		"popup":""
+	},
+	"lakeshore_city_szybkie_okrazenie":{
+		"label":"Hot Lap",
+		"popup":""
+	}
+}

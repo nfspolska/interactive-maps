@@ -1,0 +1,360 @@
+{
+	"ventura_bay_wazne_miejsce":{
+		"label":{
+			"Garaz":"Garage",
+			"Przyczepa_Robyn":"Robyn's Trailer",
+			"The_Longhorn":"The Longhorn",
+			"Bunkier":"Bunker",
+			"Diner":"Diner"
+		},
+		"popup":{
+			"Garaz":"Hier kannst du dein Auto wechseln oder modifizieren.",
+			"Przyczepa_Robyn":"Treffplatz von Travis Team",
+			"The_Longhorn":"Treffplatz von Travis Team",
+			"Bunkier":"Treffplatz von Travis Team",
+			"Diner":"Treffplatz von Travis Team"
+		}
+	},
+	"ventura_bay_posterunek_policji":{
+		"label":{
+			"Los_Sol":"Los Sol Polizeistation",
+			"Lone_Palm":"Lone Palm Polizeistation",
+			"Ventura_Bay":"Ventura Bay Polizeistation",
+			"Franklin_Terrace":"Franklin Terrace Polizeistation"
+		},
+		"popup":{
+			"Los_Sol":"Dieser Ort in Los Sol ist voller cops!",
+			"Lone_Palm":"Dieser Ort in Lone Palm ist voller cops!",
+			"Ventura_Bay":"Dieser Ort in Ventura Bay ist voller cops!",
+			"Franklin_Terrace":"Dieser Ort in Franklin Terrace ist voller cops!"
+		}
+	},
+	"ventura_bay_stacja_benzynowa":{
+		"label":{
+			"Granite_Spring":"Granite Spring Tankstelle",
+			"Los_Sol":"Los Sol Tankstelle",
+			"Most_Los_Sol":"Los Sol Bridge Tankstelle",
+			"Millenium_Plaza":"Millenium Plaza Tankstelle",
+			"Lone_Palm":"Lone Palm Tankstelle",
+			"Esplanade":"Esplanade Tankstelle",
+			"East_Esplanade":"East Esplanade Tankstelle",
+			"Arcadia":"Arcadia Tankstelle",
+			"Centrum_Sztuki_Ventura_Bay":"Ventura Bay Art Centre Tankstelle",
+			"Kompleks_petrochemiczny":"Petrochemical Plant Tankstelle",
+			"Harbor_View":"Harbor View Tankstelle",
+			"Port":"Harbor Tankstelle",
+			"Apollo_Heights":"Apollo Heights Tankstelle",
+			"BBA_Industries":"BBA Industries Tankstelle"
+		},
+		"popup":{
+			"Granite_Spring":"Hier kannst du deine Karosserie reparieren",
+			"Los_Sol":"Hier kannst du deine Karosserie reparieren",
+			"Most_Los_Sol":"Hier kannst du deine Karosserie reparieren",
+			"Millenium_Plaza":"Hier kannst du deine Karosserie reparieren",
+			"Lone_Palm":"Hier kannst du deine Karosserie reparieren",
+			"Esplanade":"Hier kannst du deine Karosserie reparieren",
+			"East_Esplanade":"Hier kannst du deine Karosserie reparieren",
+			"Arcadia":"Hier kannst du deine Karosserie reparieren",
+			"Centrum_Sztuki_Ventura_Bay":"Hier kannst du deine Karosserie reparieren",
+			"Kompleks_petrochemiczny":"Hier kannst du deine Karosserie reparieren",
+			"Harbor_View":"Hier kannst du deine Karosserie reparieren",
+			"Port":"Hier kannst du deine Karosserie reparieren",
+			"Apollo_Heights":"Hier kannst du deine Karosserie reparieren",
+			"BBA_Industries":"Hier kannst du deine Karosserie reparieren"
+		}
+	},
+	"ventura_bay_punkt_widokowy":{
+		"label":{
+			"Weid_Canyon-zapora":"Weid Canyon Dam",
+			"Crescent_Mountain-panorama":"Crescent Mountain View",
+			"Weid_Canyon-rzeka":"Weid Canyon River",
+			"Granite_Springs-panorama":"Granite Springs View",
+			"Granite_Springs-pomnik":"Granite Springs Monument",
+			
+			"Beckenholl-panorama":"Beckenholl View",
+			"Cross_Roads-panorama":"Cross Roads View",
+			"Shoreline_Front-zatoka":"Shoreline Front Bay",
+			"Ventura_Bay-panorama":"Ventura Bay Skyline",
+			"Ventura_Bay-centrum":"Ventura Bay Downtown",
+			
+			"Stadion_Ghost":"Ghost Stadium",
+			"Millennium-most":"Millennium Bridge",
+			"Lone_Palm_Village-skrzyzowanie":"Lone Palm Village Crossing",
+			"East_Esplanade-stare_fabryki":"East Esplanade Old factory",
+			"Arcadia-park":"Arcadia Park",
+			
+			"Ventura_Bay-centrum_sztuki":"Ventura Bay Art Centre",
+			"Kompleks_petrochemiczny_VB":"VB Petrochemical Centre",
+			"San_Pedro-port":"San Pedro - harbor",
+			"Navy_Pier":"Navy Pier",
+			"South_Port-most":"South Port Bridge",
+			
+			"Franklin_Terrace-panorama":"Franklin Terrace View",
+			"Morphus":"Morphus",
+			"Harbor_View-centrum_handlowe":"Harbor View Mall",
+			"Apollo_Heights":"Apollo Heights",
+			"BBA_Industries":"BBA Industries",
+			
+			"Castle_Hill-stacja_uzdatniania_wody":"Castle Hill Water Treatment Plant",
+			"Sinners_Peak-obserwatorium":"Sinner's Peak Observatory",
+			"ElRay-molo":"El Rey Pier",
+			"Ventura_Bay-widok_na_ocean":"Ventura Bay Ocean View",
+			"Bishop_Rock-wzgorza":"Bishop Rock Hills"
+		},
+		"popup":{
+			"Weid_Canyon-zapora":"",
+			"Crescent_Mountain-panorama":"",
+			"Weid_Canyon-rzeka":"",
+			"Granite_Springs-panorama":"",
+			"Granite_Springs-pomnik":"",
+			
+			"Beckenholl-panorama":"",
+			"Cross_Roads-panorama":"",
+			"Shoreline_Front-zatoka":"",
+			"Ventura_Bay-panorama":"",
+			"Ventura_Bay-centrum":"",
+			
+			"Stadion_Ghost":"",
+			"Millennium-most":"",
+			"Lone_Palm_Village-skrzyzowanie":"",
+			"East_Esplanade-starefabryki":"",
+			"Arcadia-park":"",
+			
+			"Ventura_Bay-centrum_sztuki":"",
+			"Kompleks_petrochemiczny_VB":"",
+			"San_Pedro-port":"",
+			"Navy_Pier":"",
+			"South_Port-most":"",
+			
+			"Franklin_Terrace-panorama":"",
+			"Morphus":"",
+			"Harbor_View-centrum_handlowe":"",
+			"Apollo_Heights":"",
+			"BBA_Industries":"",
+			
+			"Castle_Hill-stacja_uzdatniania_wody":"",
+			"Sinners_Peak-obserwatorium":"",
+			"El_Ray-molo":"",
+			"Ventura_Bay-widok_na_ocean":"",
+			"Bishop_Rock-wzgorza":""
+		}
+	},
+	"ventura_bay_miejsce_do_krecenia_baczkow":{
+		"label":{
+			"Wulkano-zacja":"Café au Creme",
+			"Pieklo_pod_maska":"Evil Caramel",
+			"Czarny_dym":"Chocolate Orange",
+			"Ruszyl_Ziemie":"Apple Crumble",
+			"B_jak_baczek":"Nutty Choco Fudge",
+			
+			"Zawroty_glowy":"Maple Bacon",
+			"W_kolko_Macieju":"Koko Ganache",
+			"Kola_fortuny":"Sprinkle Frost",
+			"Wirujacy_sens":"Fudge Dream",
+			"Miotacz_ognia":"Lemon Refresher",
+			
+			"Tornado":"Locococo",
+			"Slady_na_ulicy":"Butter Fiesta",
+			"Zakrecona_zakrecona":"Purple Glaze",
+			"Czarna_dziura":"Verry Berry",
+			"Disco-bak":"Deep Almond",
+			
+			"Wkrecanie_sruby":"Cinnamoney",
+			"Iskry_z_alufelg":"Honeylicious",
+			"Zwijanie_asfaltu":"Frosted Devil",
+			"Szalony_spin":"Chestnut Heaven",
+			"Wokol_slonca":"Nasty Glazed",
+			
+			"Kalabanga":"Dizzled Dough",
+			"Ale_urwal":"Pecan Punch",
+			"Malowane_amelinium":"Vanilla Monster",
+			"Smola_spod_kola":"Marshmallow Pop",
+			"Taki_mamy_klimat":"Rockhard Melts",
+			
+			"Kolko_graniaste":"Choc n' Chip",
+			"Silnik_w_ogniu":"Sugar Booger",
+			"Kalejdoskop":"Angel Whip",
+			"Rozkrecanie_imprezy":"Giant Sin",
+			"Hula-hoop":"Crack-a-Nutta"
+		},
+		"popup":{
+			"Wulkano-zacja":"",
+			"Pieklo_pod_maska":"",
+			"Czarny_dym":"",
+			"Ruszyl_Ziemie":"",
+			"B_jak_baczek":"",
+			
+			"Zawroty_glowy":"",
+			"W_kolko_Macieju":"",
+			"Kola_fortuny":"",
+			"Wirujacy_sens":"",
+			"Miotacz_ognia":"",
+			
+			"Tornado":"",
+			"Slady_na_ulicy":"",
+			"Zakrecona_zakrecona":"",
+			"Czarna_dziura":"",
+			"Disco-bak":"",
+			
+			"Wkrecanie_sruby":"",
+			"Iskry_z_alufelg":"",
+			"Zwijanie_asfaltu":"",
+			"Szalony_spin":"",
+			"Wokol_slonca":"",
+			
+			"Kalabanga":"",
+			"Ale_urwal":"",
+			"Malowane_amelinium":"",
+			"Smola_spod_kola":"",
+			"Taki_mamy_klimat":"",
+			
+			"Kolko_graniaste":"",
+			"Silnik_w_ogniu":"",
+			"Kalejdoskop":"",
+			"Rozkrecanie_imprezy":"",
+			"Hula-hoop":""
+		}
+	},
+	"ventura_bay_darmowa_czesc":{
+		"label":{
+			"20":"Gratis-Teil #20",
+			"12":"Gratis-Teil #12",
+			"18":"Gratis-Teil #18",
+			"1":"Gratis-Teil #1",
+			"15":"Gratis-Teil #15",
+			
+			"10":"Gratis-Teil #10",
+			"11":"Gratis-Teil #11",
+			"23":"Gratis-Teil #23",
+			"13":"Gratis-Teil #13",
+			"19":"Gratis-Teil #19",
+			
+			"21":"Gratis-Teil #21",
+			"2":"Gratis-Teil #2",
+			"3":"Gratis-Teil #3",
+			"22":"Gratis-Teil #22",
+			"14":"Gratis-Teil #14",
+			
+			"6":"Gratis-Teil #6",
+			"5":"Gratis-Teil #5",
+			"8":"Gratis-Teil #8",
+			"16":"Gratis-Teil #16",
+			"9":"Gratis-Teil #9",
+			
+			"17":"Gratis-Teil #17",
+			"4":"Gratis-Teil #4",
+			"7":"Gratis-Teil #7",
+			"24":"Gratis-Teil #24"
+		},
+		"popup":{
+			"20":"Street style fender mirror for Honda Civic",
+			"12":"Nitro cylinder (over time) - 2,3 kg capacity",
+			"18":"Illuminated air intake to Lotus",
+			"1":"Clutch with gear shift time 0,1 s",
+			"15":"Illuminated air intake for Volvo",
+			
+			"10":"Intercooler W x H 26 x 6",
+			"11":"EliteTune-SC-V1-TUNER compressor",
+			"23":"Side Thresholds for Dodge Challenger SRT",
+			"13":"Large factory mudguards for GTI Golf",
+			"19":"Type I racing fender for Honda Civic",
+			
+			"21":"Wide street-style fender to Dodge Challenger SRT",
+			"2":"Replacement air filter",
+			"3":"Pressed fuel pump",
+			"22":"Race side thresholds to Honda Civic",
+			"14":"Illuminated air intake for GTI Golf",
+			
+			"6":"Race exhaust system without catalyst",
+			"5":"Collector EL",
+			"8":"Pressed camshaft Elite.4 with valve opening time (suction/expiration): 243/283",
+			"16":"A street-style mudguard to Mustang-65",
+			"9":"Ground Elite Tuning inlets v.2",
+			
+			"17":"Carbon composite deflectors for Lotus",
+			"4":"Fully adjustable brakes",
+			"7":"Fully adjustable handbrake",
+			"24":"Wide street-style fender for your Volvo"
+		}
+	},
+	"ventura_bay_punkt_eksploracyjny":{
+		"label":{
+			"Nerd":"The Nerd",
+			"Kryjowka_idealna":"Perfect Hideout",
+			"Wrak_pociagu":"Train Wreck",
+			"Piksel":"Pixel",
+			"Szaman":"Shaman",
+			
+			"Mural_z_monoklem":"Monocle Mural",
+			"Pasek_zycia":"Life Bar",
+			"Nancy":"Nancy",
+			"Wieza_cisnien_z_wzorem_maskujacym":"Camouflaged Water Tower",
+			"Twarz_w_skale":"Face in the Rock"
+		},
+		"popup":{
+			"Nerd":"",
+			"Kryjowka_idealna":"",
+			"Wrak_pociagu":"",
+			"Piksel":"",
+			"Szaman":"",
+			
+			"Mural_z_monoklem":"",
+			"Pasek_zycia":"",
+			"Nancy":"",
+			"Wieza_cisnien_z_wzorem_maskujacym":"",
+			"Twarz_w_skale":""
+		}
+	},
+	"ventura_bay_gonitwa":{
+		"label":{
+			"Zawirowania":"Warped",
+			"Jak_w_zegarku":"Like Clockwork",
+			"Zadyma_na_zboczu":"Downhill Hustle",
+			"Strefa_zagrozenia":"Danger Zone",
+			"Granica_wytrzymalosci":"Breaking Point",
+			"Piorun":"Thunder",
+			"Kompozyt_weglowy":"Carbon Fiber",
+			"Miecz_worpalny":"Vorpal Blade",
+			"Kabel_Rozruchowy":"Jumper Cable",
+			"W_plenerze":"Wildlife"
+		},
+		"popup":{
+			"Zawirowania":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Jak_w_zegarku":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Zadyma_na_zboczu":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Strefa_zagrozenia":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Granica_wytrzymalosci":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Piorun":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Kompozyt_weglowy":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Miecz_worpalny":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"Kabel_Rozruchowy":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen",
+			"W_plenerze":"Folge der Route in weniger als __a__ Sekunden, ohne dabei eine Kollision zu verursachen"
+		}
+	},
+	"ventura_bay_zakret_driftowy":{
+		"label":{
+			"Przytulny_zakatek":"Cozy Nook",
+			"Skandynawskie_szarpniecie":"Scandinavian Flick",
+			"Giecie_blotnikow":"Fender Bender",
+			"Kontrobrot":"Counter Spun",
+			"Solidne_fundamenty":"Ground Floor",
+			"Guzik_z_petelka":"Loop the Loop",
+			"Dzielnica_driftu":"The Drift Side",
+			"Szlifierka_do_metalu":"Metal Grinder",
+			"Raz_jeszcze":"One More",
+			"Block_w_bok":"Ken't Block This"
+		},
+		"popup":{
+			"Przytulny_zakatek":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Skandynawskie_szarpniecie":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Giecie_blotnikow":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Kontrobrot":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Solidne_fundamenty":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Guzik_z_petelka":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Dzielnica_driftu":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Szlifierka_do_metalu":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Raz_jeszcze":"Drifte durch die Kurve mit mindestens __a__ Punkten",
+			"Block_w_bok":"Drifte durch die Kurve mit mindestens __a__ Punkten"
+		}
+	}
+}
