@@ -8,31 +8,31 @@
 		"popup":""
 	},
 	"lakeshore_city_graffiti":{
-		"label":"Street Art",
+		"label":"Street-Art",
 		"popup":""
 	},
 	"lakeshore_city_niedzwiedz":{
-		"label":"Bear",
+		"label":"Bear Champ",
 		"popup":""
 	},
 	"lakeshore_city_billboard":{
-		"label":"Billboard",
+		"label":"Plakatwand",
 		"popup":""
 	},
 	"lakeshore_city_fotoradar":{
-		"label":"Speed trap",
+		"label":"Speed-Trap",
 		"popup":""
 	},
 	"lakeshore_city_skok":{
-		"label":"Long Jump",
+		"label":"Sprung",
 		"popup":""
 	},
 	"lakeshore_city_proba_predkosci":{
-		"label":"Speed Run",
+		"label":"Speedrun",
 		"popup":""
 	},
 	"lakeshore_city_strefa_driftu":{
-		"label":"Drift Zone",
+		"label":"Driftzone",
 		"popup":""
 	},
 	"lakeshore_city_szybkie_okrazenie":{

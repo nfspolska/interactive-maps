@@ -1,0 +1,22 @@
+{
+	"rockport_garaz":{
+		"label":"Unterschlupf",
+		"popup":""
+	},
+	"rockport_autokomis":{
+		"label":"Autohändler",
+		"popup":""
+	},
+	"rockport_sklep":{
+		"label":"Tuningshop",
+		"popup":""
+	},
+	"rockport_utrudniacz_poscigow":{
+		"label":"Verfolgungsstopper",
+		"popup":""
+	},
+	"rockport_kryjowka":{
+		"label":"Versteck",
+		"popup":""
+	}
+}
