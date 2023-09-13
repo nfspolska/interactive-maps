@@ -1,8 +1,6 @@
 # Need for Speed Interactive Maps
 This project stores translations for Need for Speed Interactive Maps on [NFSPolska.pl](https://nfspolska.pl).
 
-Actually Maps are translated to Czech, Slovak and Polish — feel free to add more languages!
-
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b translate-pl`
