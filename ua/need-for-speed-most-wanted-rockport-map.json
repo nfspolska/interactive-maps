@@ -1,0 +1,22 @@
+{
+	"rockport_garaz":{
+		"label":"Гараж",
+		"popup":""
+	},
+	"rockport_autokomis":{
+		"label":"Автосалон",
+		"popup":""
+	},
+	"rockport_sklep":{
+		"label":"Майстерня",
+		"popup":""
+	},
+	"rockport_utrudniacz_poscigow":{
+		"label":"Руйнівні Міста",
+		"popup":""
+	},
+	"rockport_kryjowka":{
+		"label":"Місця для Схованки",
+		"popup":""
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"palmont_city_garaz":{
+		"label":"Гараж",
+		"popup":""
+	},
+	"palmont_city_salon_samochodowy":{
+		"label":"Автосалон",
+		"popup":""
+	},
+	"palmont_city_utrudniacz_poscigow":{
+		"label":"Руйнівні Міста",
+		"popup":""
+	},
+	"palmont_city_kryjowka":{
+		"label":"Місця для Схованки",
+		"popup":""
+	},
+	"palmont_city_gang":{
+		"label":{
+			"bushido":"Бушидо",
+			"inferno":"Інферно",
+			"scorpios":"Скорпіони",
+			"silverton":"Сільвертони",
+			"rotor-4":"Ротор 4",
+			"kings":"Королі",
+			"black-hearts":"Темні Серця",
+			"los-colibries":"Los Colibries",
+			"tfk":"TFK",
+			"21st-street-crew":"Екіпаж 21-ої Вулиці"
+		},
+		"popup":{
+			"bushido":"",
+			"inferno":"",
+			"scorpios":"",
+			"silverton":"",
+			"rotor-4":"",
+			"kings":"",
+			"black-hearts":"",
+			"los-colibries":"",
+			"tfk":"",
+			"21st-street-crew":""
+		}
+	}
+}
