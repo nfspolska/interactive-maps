@@ -1,0 +1,42 @@
+{
+	"lakeshore_city_garaz":{
+		"label":"Planque",
+		"popup":""
+	},
+	"lakeshore_city_stacja_benzynowa":{
+		"label":"Station-service",
+		"popup":""
+	},
+	"lakeshore_city_graffiti":{
+		"label":"Street Art",
+		"popup":""
+	},
+	"lakeshore_city_niedzwiedz":{
+		"label":"Ours",
+		"popup":""
+	},
+	"lakeshore_city_billboard":{
+		"label":"Panneau",
+		"popup":""
+	},
+	"lakeshore_city_fotoradar":{
+		"label":"Radar",
+		"popup":""
+	},
+	"lakeshore_city_skok":{
+		"label":"Grand Saut",
+		"popup":""
+	},
+	"lakeshore_city_proba_predkosci":{
+		"label":"Run de Vitesse",
+		"popup":""
+	},
+	"lakeshore_city_strefa_driftu":{
+		"label":"Zone de Drift",
+		"popup":""
+	},
+	"lakeshore_city_szybkie_okrazenie":{
+		"label":"Meilleur Tour",
+		"popup":""
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"rockport_garaz":{
+		"label":"Planque",
+		"popup":""
+	},
+	"rockport_autokomis":{
+		"label":"Concession",
+		"popup":""
+	},
+	"rockport_sklep":{
+		"label":"Atelier",
+		"popup":""
+	},
+	"rockport_utrudniacz_poscigow":{
+		"label":"Stop-Poursuite",
+		"popup":""
+	},
+	"rockport_kryjowka":{
+		"label":"Cachette",
+		"popup":""
+	}
+}
