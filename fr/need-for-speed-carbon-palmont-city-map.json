@@ -1,0 +1,44 @@
+{
+	"palmont_city_garaz":{
+		"label":"Planque",
+		"popup":""
+	},
+	"palmont_city_salon_samochodowy":{
+		"label":"Concession",
+		"popup":""
+	},
+	"palmont_city_utrudniacz_poscigow":{
+		"label":"Stop-Poursuite",
+		"popup":""
+	},
+	"palmont_city_kryjowka":{
+		"label":"Cachette",
+		"popup":""
+	},
+	"palmont_city_gang":{
+		"label":{
+			"bushido":"Bushido",
+			"inferno":"Inferno",
+			"scorpios":"Scorpions",
+			"silverton":"Silverton",
+			"rotor-4":"Rotor 4",
+			"kings":"Kings",
+			"black-hearts":"Black Hearts",
+			"los-colibries":"Los Colibries",
+			"tfk":"TFK",
+			"21st-street-crew":"21st Street Crew"
+		},
+		"popup":{
+			"bushido":"",
+			"inferno":"",
+			"scorpios":"",
+			"silverton":"",
+			"rotor-4":"",
+			"kings":"",
+			"black-hearts":"",
+			"los-colibries":"",
+			"tfk":"",
+			"21st-street-crew":""
+		}
+	}
+}
