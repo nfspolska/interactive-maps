@@ -1,0 +1,360 @@
+{
+	"ventura_bay_wazne_miejsce":{
+		"label":{
+			"Garaz":"Гараж",
+			"Przyczepa_Robyn":"Причеп Робіна",
+			"The_Longhorn":"Лонгхорн",
+			"Bunkier":"Бункер",
+			"Diner":"Їдальня"
+		},
+		"popup":{
+			"Garaz":"Тут ви можете змінити або модифікувати свою машину",
+			"Przyczepa_Robyn":"Місто зустрічі команди Травіса",
+			"The_Longhorn":"Місто зустрічі команди Травіса",
+			"Bunkier":"Місто зустрічі команди Травіса",
+			"Diner":"Місто зустрічі команди Травіса"
+		}
+	},
+	"ventura_bay_posterunek_policji":{
+		"label":{
+			"Los_Sol":"Поліцейська Станція Лос Сол",
+			"Lone_Palm":"Поліцейська Станція Лоун Палм",
+			"Ventura_Bay":"Поліцейська Станція Вентура Бей",
+			"Franklin_Terrace":"Поліцейська Станція Франклін Террас"
+		},
+		"popup":{
+			"Los_Sol":"Це місце в Лос Сол повне копів!",
+			"Lone_Palm":"Це місце в Лоун Палм повне копів!",
+			"Ventura_Bay":"Це місце в Вентура Бей повне копів!",
+			"Franklin_Terrace":"Це місце в Франклін Террас повне копів!"
+		}
+	},
+	"ventura_bay_stacja_benzynowa":{
+		"label":{
+			"Granite_Spring":"АЗС біля Гранітних Джерел",
+			"Los_Sol":"АЗС Лос Сол",
+			"Most_Los_Sol":"АЗС Лос Сол на Мосту",
+			"Millenium_Plaza":"АЗС Мілленіум Плаза",
+			"Lone_Palm":"АЗС Лоун Палмn",
+			"Esplanade":"АЗС Еспланаде",
+			"East_Esplanade":"АЗС Східне Еспланаде",
+			"Arcadia":"АЗС Аркадія",
+			"Centrum_Sztuki_Ventura_Bay":"АЗС Вентура Бей - Центр Малюнків",
+			"Kompleks_petrochemiczny":"АЗС біля Нафтохімічного Заводу",
+			"Harbor_View":"АЗС біля площадки на огляд Хабора",
+			"Port":"АЗС Харбор",
+			"Apollo_Heights":"АЗС Аполло Хайтс",
+			"BBA_Industries":"АЗС BBA Індустріс"
+		},
+		"popup":{
+			"Granite_Spring":"Тут ви можете відремонтувати свою машину",
+			"Los_Sol":"Тут ви можете відремонтувати свою машину",
+			"Most_Los_Sol":"Тут ви можете відремонтувати свою машину",
+			"Millenium_Plaza":"Тут ви можете відремонтувати свою машину",
+			"Lone_Palm":"Тут ви можете відремонтувати свою машину",
+			"Esplanade":"Тут ви можете відремонтувати свою машину",
+			"East_Esplanade":"Тут ви можете відремонтувати свою машину",
+			"Arcadia":"Тут ви можете відремонтувати свою машину",
+			"Centrum_Sztuki_Ventura_Bay":"Тут ви можете відремонтувати свою машину",
+			"Kompleks_petrochemiczny":"Тут ви можете відремонтувати свою машину",
+			"Harbor_View":"Тут ви можете відремонтувати свою машину",
+			"Port":"Тут ви можете відремонтувати свою машину",
+			"Apollo_Heights":"Тут ви можете відремонтувати свою машину",
+			"BBA_Industries":"Тут ви можете відремонтувати свою машину"
+		}
+	},
+	"ventura_bay_punkt_widokowy":{
+		"label":{
+			"Weid_Canyon-zapora":"Дамба Каньйону Вайд",
+			"Crescent_Mountain-panorama":"Вид на Кресент Маунтін",
+			"Weid_Canyon-rzeka":"Річка Вейд Каньйон",
+			"Granite_Springs-panorama":"Вид на Гранітні Джерела",
+			"Granite_Springs-pomnik":"Монумент Гранітним Джерелам",
+			
+			"Beckenholl-panorama":"Вид на Бекенхолл",
+			"Cross_Roads-panorama":"Вид на Перехрестя Доріг (англ. Cross Roads View)",
+			"Shoreline_Front-zatoka":"Берегова лінія Фронт-Бей (англ. Shoreline Front Bay)",
+			"Ventura_Bay-panorama":"Горизонт Вентура Бей (англ. Ventura Bay Skyline)",
+			"Ventura_Bay-centrum":"Центр міста Вентура-Бей (англ. Ventura Bay Downtown)",
+			
+			"Stadion_Ghost":"Стадіон Привид",
+			"Millennium-most":"Міст Мілленіум",
+			"Lone_Palm_Village-skrzyzowanie":"Перехрастя Поселеннь Лоун Палм",
+			"East_Esplanade-stare_fabryki":"Стара фабрика на Східному Еспланаде",
+			"Arcadia-park":"Парк Аркадія",
+			
+			"Ventura_Bay-centrum_sztuki":"Центр Малювання Вентура Бей",
+			"Kompleks_petrochemiczny_VB":"VB Нафтохімічний центр",
+			"San_Pedro-port":"Сан Педро - гавань",
+			"Navy_Pier":"Військово-морський пірс",
+			"South_Port-most":"Міст Південного порту",
+			
+			"Franklin_Terrace-panorama":"Вид на Франклін Террас",
+			"Morphus":"Морфус",
+			"Harbor_View-centrum_handlowe":"Торговий Центр Харбор Вью",
+			"Apollo_Heights":"Аполло Хайтс",
+			"BBA_Industries":"BBA Індустріс",
+			
+			"Castle_Hill-stacja_uzdatniania_wody":"Водоочисна станція Кестл Гілл",
+			"Sinners_Peak-obserwatorium":"Обсерваторія Сіннера Піка",
+			"ElRay-molo":"Пірс Ель Рей",
+			"Ventura_Bay-widok_na_ocean":"Вид на Океан Вентура Бей",
+			"Bishop_Rock-wzgorza":"Кам'яні Схили Бішопа"
+		},
+		"popup":{
+			"Weid_Canyon-zapora":"",
+			"Crescent_Mountain-panorama":"",
+			"Weid_Canyon-rzeka":"",
+			"Granite_Springs-panorama":"",
+			"Granite_Springs-pomnik":"",
+			
+			"Beckenholl-panorama":"",
+			"Cross_Roads-panorama":"",
+			"Shoreline_Front-zatoka":"",
+			"Ventura_Bay-panorama":"",
+			"Ventura_Bay-centrum":"",
+			
+			"Stadion_Ghost":"",
+			"Millennium-most":"",
+			"Lone_Palm_Village-skrzyzowanie":"",
+			"East_Esplanade-starefabryki":"",
+			"Arcadia-park":"",
+			
+			"Ventura_Bay-centrum_sztuki":"",
+			"Kompleks_petrochemiczny_VB":"",
+			"San_Pedro-port":"",
+			"Navy_Pier":"",
+			"South_Port-most":"",
+			
+			"Franklin_Terrace-panorama":"",
+			"Morphus":"",
+			"Harbor_View-centrum_handlowe":"",
+			"Apollo_Heights":"",
+			"BBA_Industries":"",
+			
+			"Castle_Hill-stacja_uzdatniania_wody":"",
+			"Sinners_Peak-obserwatorium":"",
+			"El_Ray-molo":"",
+			"Ventura_Bay-widok_na_ocean":"",
+			"Bishop_Rock-wzgorza":""
+		}
+	},
+	"ventura_bay_miejsce_do_krecenia_baczkow":{
+		"label":{
+			"Wulkano-zacja":"Café au Creme",
+			"Pieklo_pod_maska":"Зла Карамель",
+			"Czarny_dym":"Шоколад з апельсином",
+			"Ruszyl_Ziemie":"Яблучний крамбл",
+			"B_jak_baczek":"Горіхова шоколадна помадка",
+			
+			"Zawroty_glowy":"Кленовий бекон",
+			"W_kolko_Macieju":"Коко Ганаш",
+			"Kola_fortuny":"Sprinkle Frost",
+			"Wirujacy_sens":"Шоколадна Мрія (англ. Fudge Dream)",
+			"Miotacz_ognia":"Лимонний Освіжувач",
+			
+			"Tornado":"Торнадо",
+			"Slady_na_ulicy":"Масляна фієста",
+			"Zakrecona_zakrecona":"Фіолетова глазур",
+			"Czarna_dziura":"Веррі Беррі",
+			"Disco-bak":"Глибокий мигдаль",
+			
+			"Wkrecanie_sruby":"Кориця",
+			"Iskry_z_alufelg":"Медово-солодкий",
+			"Zwijanie_asfaltu":"Заморожений Диявол",
+			"Szalony_spin":"Рай Горіхів",
+			"Wokol_slonca":"Неприємна глазур",
+			
+			"Kalabanga":"Запаморочливе тісто (англ. Dizzled Dough)",
+			"Ale_urwal":"Пекановий пунш",
+			"Malowane_amelinium":"Ванільний Монстр",
+			"Smola_spod_kola":"Маршмеллоу Поп",
+			"Taki_mamy_klimat":"Тверді розплави",
+			
+			"Kolko_graniaste":"Choc n' Chip",
+			"Silnik_w_ogniu":"Цукрова Комаха",
+			"Kalejdoskop":"Ангельський Батіг",
+			"Rozkrecanie_imprezy":"Великий Гріх",
+			"Hula-hoop":"Crack-a-Nutta"
+		},
+		"popup":{
+			"Wulkano-zacja":"",
+			"Pieklo_pod_maska":"",
+			"Czarny_dym":"",
+			"Ruszyl_Ziemie":"",
+			"B_jak_baczek":"",
+			
+			"Zawroty_glowy":"",
+			"W_kolko_Macieju":"",
+			"Kola_fortuny":"",
+			"Wirujacy_sens":"",
+			"Miotacz_ognia":"",
+			
+			"Tornado":"",
+			"Slady_na_ulicy":"",
+			"Zakrecona_zakrecona":"",
+			"Czarna_dziura":"",
+			"Disco-bak":"",
+			
+			"Wkrecanie_sruby":"",
+			"Iskry_z_alufelg":"",
+			"Zwijanie_asfaltu":"",
+			"Szalony_spin":"",
+			"Wokol_slonca":"",
+			
+			"Kalabanga":"",
+			"Ale_urwal":"",
+			"Malowane_amelinium":"",
+			"Smola_spod_kola":"",
+			"Taki_mamy_klimat":"",
+			
+			"Kolko_graniaste":"",
+			"Silnik_w_ogniu":"",
+			"Kalejdoskop":"",
+			"Rozkrecanie_imprezy":"",
+			"Hula-hoop":""
+		}
+	},
+	"ventura_bay_darmowa_czesc":{
+		"label":{
+			"20":"Безкоштовна Запчастина #20",
+			"12":"Безкоштовна Запчастина #12",
+			"18":"Безкоштовна Запчастина #18",
+			"1":"Безкоштовна Запчастина #1",
+			"15":"Безкоштовна Запчастина #15",
+			
+			"10":"Безкоштовна Запчастина #10",
+			"11":"Безкоштовна Запчастина #11",
+			"23":"Безкоштовна Запчастина #23",
+			"13":"Безкоштовна Запчастина #13",
+			"19":"Безкоштовна Запчастина #19",
+			
+			"21":"Безкоштовна Запчастина #21",
+			"2":"Безкоштовна Запчастина #2",
+			"3":"Безкоштовна Запчастина #3",
+			"22":"Безкоштовна Запчастина #22",
+			"14":"Безкоштовна Запчастина #14",
+			
+			"6":"Безкоштовна Запчастина #6",
+			"5":"Безкоштовна Запчастина #5",
+			"8":"Безкоштовна Запчастина #8",
+			"16":"Безкоштовна Запчастина #16",
+			"9":"Безкоштовна Запчастина #9",
+			
+			"17":"Безкоштовна Запчастина #17",
+			"4":"Безкоштовна Запчастина #4",
+			"7":"Безкоштовна Запчастина #7",
+			"24":"Безкоштовна Запчастина #24"
+		},
+		"popup":{
+			"20":"Дзеркало у вуличному стилі для Honda Civic",
+			"12":"Циліндр Нітро (протягом часу) - 2,3 кг потужності",
+			"18":"Підсвічування повітрозабірника для Lotus",
+			"1":"Клатч зі зімною передачі за 0,1 сек",
+			"15":"Підсвічування повітрозабірника для Volvo",
+			
+			"10":"Інтеркулер W x H 26 x 6",
+			"11":"EliteTune-SC-V1-TUNER компресор",
+			"23":"Бічні пороги для Dodge Challenger SRT",
+			"13":"Великі заводські бризковики для GTI Golf",
+			"19":"Тип I гоночного крила для Honda Civic",
+			
+			"21":"Широке крило у вуличному стилі для Dodge Challenger SRT",
+			"2":"Заміна повітряного фільтра",
+			"3":"Пресований паливний насос",
+			"22":"Гоночні бічні пороги для Honda Civic",
+			"14":"Підсвічування повітрозабірника для GTI Golf",
+			
+			"6":"Гоночна вихлопна система без каталізатора",
+			"5":"Збирач EL",
+			"8":"Пресований розподільний вал Elite.4 з часом відкриття клапана (всмоктування/закінчення): 243/283",
+			"16":"Бризковик у вуличному стилі для Mustang-65",
+			"9":"Тюнінговані впускні отвори Ground Elite v.2",
+			
+			"17":"Карбонові композитні дефлектори для Lotus",
+			"4":"Повністю налаштовані тормоза",
+			"7":"Повністю налаштоване ручне гальмо",
+			"24":"Широке крило у вуличному стилі для вашого Volvo"
+		}
+	},
+	"ventura_bay_punkt_eksploracyjny":{
+		"label":{
+			"Nerd":"Умник",
+			"Kryjowka_idealna":"Чудова Схованка",
+			"Wrak_pociagu":"Зламаний Поїзд",
+			"Piksel":"Піксель",
+			"Szaman":"шаман",
+			
+			"Mural_z_monoklem":"Моноколь з Фрескою",
+			"Pasek_zycia":"Лайф-Бар",
+			"Nancy":"Ненсі",
+			"Wieza_cisnien_z_wzorem_maskujacym":"Замаскована Водонапірна Вежа",
+			"Twarz_w_skale":"Обличчя в Скелі"
+		},
+		"popup":{
+			"Nerd":"",
+			"Kryjowka_idealna":"",
+			"Wrak_pociagu":"",
+			"Piksel":"",
+			"Szaman":"",
+			
+			"Mural_z_monoklem":"",
+			"Pasek_zycia":"",
+			"Nancy":"",
+			"Wieza_cisnien_z_wzorem_maskujacym":"",
+			"Twarz_w_skale":""
+		}
+	},
+	"ventura_bay_gonitwa":{
+		"label":{
+			"Zawirowania":"Запаковано",
+			"Jak_w_zegarku":"Працюють як Години",
+			"Zadyma_na_zboczu":"Downhill Hustle",
+			"Strefa_zagrozenia":"Небезпечна Зона",
+			"Granica_wytrzymalosci":"Точка Витривалості",
+			"Piorun":"Грім",
+			"Kompozyt_weglowy":"Карбонове покриття",
+			"Miecz_worpalny":"Лезо Скорпіона",
+			"Kabel_Rozruchowy":"Кабель Перемички",
+			"W_plenerze":"Дике Життя"
+		},
+		"popup":{
+			"Zawirowania":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Jak_w_zegarku":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Zadyma_na_zboczu":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Strefa_zagrozenia":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Granica_wytrzymalosci":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Piorun":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Kompozyt_weglowy":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Miecz_worpalny":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"Kabel_Rozruchowy":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень",
+			"W_plenerze":"Проїдьте по заданому маршруту не довше а-ніж __a__ секунд без пошкоджень"
+		}
+	},
+	"ventura_bay_zakret_driftowy":{
+		"label":{
+			"Przytulny_zakatek":"Затишний Куточок",
+			"Skandynawskie_szarpniecie":"Скандинавський Флік",
+			"Giecie_blotnikow":"Fender Bender",
+			"Kontrobrot":"Протилежне Обертання",
+			"Solidne_fundamenty":"Перший Поверх",
+			"Guzik_z_petelka":"Коло за Колом",
+			"Dzielnica_driftu":"Сторона Дрифту",
+			"Szlifierka_do_metalu":"Металичне Покриття",
+			"Raz_jeszcze":"Ще одне",
+			"Block_w_bok":"Неможливо Заблокувати Це"
+		},
+		"popup":{
+			"Przytulny_zakatek":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Skandynawskie_szarpniecie":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Giecie_blotnikow":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Kontrobrot":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Solidne_fundamenty":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Guzik_z_petelka":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Dzielnica_driftu":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Szlifierka_do_metalu":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Raz_jeszcze":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок",
+			"Block_w_bok":"Подрифтіть через поворот з мінімальною кількістью очок, хоча-б __a__ очок"
+		}
+	}
+}

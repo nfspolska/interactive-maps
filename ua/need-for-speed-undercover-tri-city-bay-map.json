@@ -1,0 +1,14 @@
+{
+	"tri_city_bay_garaz":{
+		"label":"Гараж",
+		"popup":""
+	},
+	"tri_city_bay_utrudniacz_poscigow":{
+		"label":"Руйнівні Міста",
+		"popup":""
+	},
+	"tri_city_bay_kryjowka":{
+		"label":"Місця для схованки",
+		"popup":""
+	}
+}
